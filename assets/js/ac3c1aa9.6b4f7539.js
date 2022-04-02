@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[3436],{42679:function(a){a.exports=JSON.parse('{"allTagsPath":"/ai-kb/blog/tags","slug":"/ai-kb/blog/tags/healthcare","name":"healthcare","count":2,"permalink":"/ai-kb/blog/tags/healthcare"}')}}]);

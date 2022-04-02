@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[9712],{43790:function(a){a.exports=JSON.parse('{"allTagsPath":"/ai-kb/blog/tags","slug":"/ai-kb/blog/tags/nlp","name":"nlp","count":5,"permalink":"/ai-kb/blog/tags/nlp"}')}}]);

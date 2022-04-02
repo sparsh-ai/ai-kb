@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[9794],{96474:function(a){a.exports=JSON.parse('{"allTagsPath":"/ai-kb/blog/tags","slug":"/ai-kb/blog/tags/ocr","name":"ocr","count":1,"permalink":"/ai-kb/blog/tags/ocr"}')}}]);

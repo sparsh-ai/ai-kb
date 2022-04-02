@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[1868],{91760:function(e){e.exports=JSON.parse('{"allTagsPath":"/ai-kb/blog/tags","slug":"/ai-kb/blog/tags/deepfake","name":"deepfake","count":1,"permalink":"/ai-kb/blog/tags/deepfake"}')}}]);

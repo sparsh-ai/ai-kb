@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[5098],{41762:function(a){a.exports=JSON.parse('{"allTagsPath":"/ai-kb/blog/tags","slug":"/ai-kb/blog/tags/streamlit","name":"streamlit","count":3,"permalink":"/ai-kb/blog/tags/streamlit"}')}}]);
