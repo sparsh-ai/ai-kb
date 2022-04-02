@@ -1,0 +1,23 @@
+{
+  "unversionedId": "best-practices/nlp/text-generation",
+  "id": "best-practices/nlp/text-generation",
+  "title": "Text Generation",
+  "description": "Natural language generation (NLG) can actually tell a story – exactly like that of a human analyst – by writing the sentences and paragraphs for you. It can also summarize reports.",
+  "source": "@site/docs/07-best-practices/nlp/text-generation.mdx",
+  "sourceDirName": "07-best-practices/nlp",
+  "slug": "/best-practices/nlp/text-generation",
+  "permalink": "/ai-kb/docs/best-practices/nlp/text-generation",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/07-best-practices/nlp/text-generation.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Text Classification",
+    "permalink": "/ai-kb/docs/best-practices/nlp/text-classification"
+  },
+  "next": {
+    "title": "Text Similarity",
+    "permalink": "/ai-kb/docs/best-practices/nlp/text-similarity"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concepts/model-retraining",
+  "id": "concepts/model-retraining",
+  "title": "Model Retraining",
+  "description": "Concept Drift",
+  "source": "@site/docs/03-concepts/model-retraining.mdx",
+  "sourceDirName": "03-concepts",
+  "slug": "/concepts/model-retraining",
+  "permalink": "/ai-kb/docs/concepts/model-retraining",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/model-retraining.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Model Deployment",
+    "permalink": "/ai-kb/docs/concepts/model-deployment"
+  },
+  "next": {
+    "title": "Multi-Objective Optimization",
+    "permalink": "/ai-kb/docs/concepts/multi-objective-optimization"
+  }
+}

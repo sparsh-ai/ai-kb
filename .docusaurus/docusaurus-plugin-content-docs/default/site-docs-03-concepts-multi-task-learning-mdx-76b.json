@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concepts/multi-task-learning",
+  "id": "concepts/multi-task-learning",
+  "title": "Multi-Task Learning",
+  "description": "",
+  "source": "@site/docs/03-concepts/multi-task-learning.mdx",
+  "sourceDirName": "03-concepts",
+  "slug": "/concepts/multi-task-learning",
+  "permalink": "/ai-kb/docs/concepts/multi-task-learning",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/multi-task-learning.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Multi-Objective Optimization",
+    "permalink": "/ai-kb/docs/concepts/multi-objective-optimization"
+  },
+  "next": {
+    "title": "Multi-task Learning",
+    "permalink": "/ai-kb/docs/concepts/multitask-learning"
+  }
+}

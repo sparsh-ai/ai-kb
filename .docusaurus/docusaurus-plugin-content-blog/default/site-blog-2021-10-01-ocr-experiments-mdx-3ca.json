@@ -1,0 +1,45 @@
+{
+  "permalink": "/ai-kb/blog/2021/10/01/ocr-experiments",
+  "source": "@site/blog/2021-10-01-ocr-experiments.mdx",
+  "title": "OCR experiments",
+  "description": "/img/content-blog-raw-blog-ocr-experiments-untitled.png",
+  "date": "2021-10-01T00:00:00.000Z",
+  "formattedDate": "October 1, 2021",
+  "tags": [
+    {
+      "label": "ocr",
+      "permalink": "/ai-kb/blog/tags/ocr"
+    },
+    {
+      "label": "vision",
+      "permalink": "/ai-kb/blog/tags/vision"
+    }
+  ],
+  "readingTime": 1.155,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Sparsh Agarwal",
+      "title": "Principal Developer",
+      "url": "https://github.com/sparsh-ai",
+      "imageURL": "https://avatars.githubusercontent.com/u/62965911?v=4",
+      "key": "sparsh"
+    }
+  ],
+  "frontMatter": {
+    "title": "OCR experiments",
+    "authors": "sparsh",
+    "tags": [
+      "ocr",
+      "vision"
+    ]
+  },
+  "prevItem": {
+    "title": "Object detection with YOLO3",
+    "permalink": "/ai-kb/blog/2021/10/01/object-detection-with-yolo3"
+  },
+  "nextItem": {
+    "title": "PDF to Wordcloud via Mail",
+    "permalink": "/ai-kb/blog/2021/10/01/pdf-to-wordcloud-via-mail"
+  }
+}

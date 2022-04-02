@@ -1,0 +1,24 @@
+{
+  "unversionedId": "notebooks/notebooks",
+  "id": "notebooks/notebooks",
+  "title": "Notebooks",
+  "description": "|  Notebook                           |   Colab  |     nbviewer    |",
+  "source": "@site/docs/06-notebooks/06-notebooks.md",
+  "sourceDirName": "06-notebooks",
+  "slug": "/notebooks/",
+  "permalink": "/ai-kb/docs/notebooks/",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/06-notebooks/06-notebooks.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "River",
+    "permalink": "/ai-kb/docs/tools/river"
+  },
+  "next": {
+    "title": "Snippets",
+    "permalink": "/ai-kb/docs/best-practices/"
+  }
+}

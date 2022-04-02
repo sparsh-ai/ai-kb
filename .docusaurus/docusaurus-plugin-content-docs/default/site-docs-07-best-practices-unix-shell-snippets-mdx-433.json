@@ -1,0 +1,19 @@
+{
+  "unversionedId": "best-practices/unix-shell-snippets",
+  "id": "best-practices/unix-shell-snippets",
+  "title": "Unix shell",
+  "description": "Replace file extension of all files in a folder",
+  "source": "@site/docs/07-best-practices/unix-shell-snippets.mdx",
+  "sourceDirName": "07-best-practices",
+  "slug": "/best-practices/unix-shell-snippets",
+  "permalink": "/ai-kb/docs/best-practices/unix-shell-snippets",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/07-best-practices/unix-shell-snippets.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Python code",
+    "permalink": "/ai-kb/docs/best-practices/python-snippets"
+  }
+}

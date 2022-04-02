@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorials/recsys-evaluation",
+  "id": "tutorials/recsys-evaluation",
+  "title": "Recommender System Evaluation",
+  "description": "| Description | Notebook |",
+  "source": "@site/docs/04-tutorials/recsys-evaluation.mdx",
+  "sourceDirName": "04-tutorials",
+  "slug": "/tutorials/recsys-evaluation",
+  "permalink": "/ai-kb/docs/tutorials/recsys-evaluation",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/04-tutorials/recsys-evaluation.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Python code",
+    "permalink": "/ai-kb/docs/tutorials/python-snippets"
+  },
+  "next": {
+    "title": "Regression",
+    "permalink": "/ai-kb/docs/tutorials/regression"
+  }
+}

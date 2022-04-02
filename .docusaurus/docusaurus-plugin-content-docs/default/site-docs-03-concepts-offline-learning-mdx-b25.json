@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concepts/offline-learning",
+  "id": "concepts/offline-learning",
+  "title": "Off-Policy Learning",
+  "description": "Offline Reinforcement Learning",
+  "source": "@site/docs/03-concepts/offline-learning.mdx",
+  "sourceDirName": "03-concepts",
+  "slug": "/concepts/offline-learning",
+  "permalink": "/ai-kb/docs/concepts/offline-learning",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/offline-learning.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Transformers",
+    "permalink": "/ai-kb/docs/concepts/nlp/transformers"
+  },
+  "next": {
+    "title": "Scalarization",
+    "permalink": "/ai-kb/docs/concepts/scalarization"
+  }
+}

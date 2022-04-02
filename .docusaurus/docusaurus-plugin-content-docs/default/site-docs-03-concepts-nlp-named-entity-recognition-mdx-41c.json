@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concepts/nlp/named-entity-recognition",
+  "id": "concepts/nlp/named-entity-recognition",
+  "title": "Named Entity Recognition",
+  "description": "/img/content-concepts-raw-nlp-named-entity-recognition-img.png",
+  "source": "@site/docs/03-concepts/nlp/named-entity-recognition.mdx",
+  "sourceDirName": "03-concepts/nlp",
+  "slug": "/concepts/nlp/named-entity-recognition",
+  "permalink": "/ai-kb/docs/concepts/nlp/named-entity-recognition",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/nlp/named-entity-recognition.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Language Modeling",
+    "permalink": "/ai-kb/docs/concepts/nlp/language-modeling"
+  },
+  "next": {
+    "title": "Text Analysis",
+    "permalink": "/ai-kb/docs/concepts/nlp/text-analysis"
+  }
+}

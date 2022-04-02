@@ -1,0 +1,420 @@
+{
+  "@cmfcmf/docusaurus-search-local": {
+    "default": {
+      "titleBoost": 5,
+      "contentBoost": 1,
+      "parentCategoriesBoost": 2,
+      "indexDocSidebarParentCategories": 0
+    }
+  },
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/ai-kb/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/ai-kb/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "best-practices/api/api",
+              "path": "/ai-kb/docs/best-practices/api/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "best-practices/api/fastapi-aws-lambda",
+              "path": "/ai-kb/docs/best-practices/api/fastapi-aws-lambda",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "best-practices/api/fastapi-localhost",
+              "path": "/ai-kb/docs/best-practices/api/fastapi-localhost",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "best-practices/best-practices",
+              "path": "/ai-kb/docs/best-practices/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "best-practices/makefile",
+              "path": "/ai-kb/docs/best-practices/makefile",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "best-practices/python-snippets",
+              "path": "/ai-kb/docs/best-practices/python-snippets",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "best-practices/unix-shell-snippets",
+              "path": "/ai-kb/docs/best-practices/unix-shell-snippets",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/amazon-personalize",
+              "path": "/ai-kb/docs/concepts/amazon-personalize",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/apps",
+              "path": "/ai-kb/docs/concepts/apps",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/bias-&-fairness",
+              "path": "/ai-kb/docs/concepts/bias-&-fairness",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/causal-inference",
+              "path": "/ai-kb/docs/concepts/causal-inference",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/concepts",
+              "path": "/ai-kb/docs/concepts/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/cross-domain",
+              "path": "/ai-kb/docs/concepts/cross-domain",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/data-science",
+              "path": "/ai-kb/docs/concepts/data-science",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/graph-embeddings",
+              "path": "/ai-kb/docs/concepts/graph-embeddings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/graph-networks",
+              "path": "/ai-kb/docs/concepts/graph-networks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/incremental-learning",
+              "path": "/ai-kb/docs/concepts/incremental-learning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/meta-learning",
+              "path": "/ai-kb/docs/concepts/meta-learning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/mlops",
+              "path": "/ai-kb/docs/concepts/mlops",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/model-deployment",
+              "path": "/ai-kb/docs/concepts/model-deployment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/model-retraining",
+              "path": "/ai-kb/docs/concepts/model-retraining",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/multi-objective-optimization",
+              "path": "/ai-kb/docs/concepts/multi-objective-optimization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/multi-task-learning",
+              "path": "/ai-kb/docs/concepts/multi-task-learning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/multitask-learning",
+              "path": "/ai-kb/docs/concepts/multitask-learning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/nlp/chatbot",
+              "path": "/ai-kb/docs/concepts/nlp/chatbot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/nlp/language-modeling",
+              "path": "/ai-kb/docs/concepts/nlp/language-modeling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/nlp/named-entity-recognition",
+              "path": "/ai-kb/docs/concepts/nlp/named-entity-recognition",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/nlp/text-analysis",
+              "path": "/ai-kb/docs/concepts/nlp/text-analysis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/nlp/text-classification",
+              "path": "/ai-kb/docs/concepts/nlp/text-classification",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/nlp/text-generation",
+              "path": "/ai-kb/docs/concepts/nlp/text-generation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/nlp/text-similarity",
+              "path": "/ai-kb/docs/concepts/nlp/text-similarity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/nlp/text-style-transfer",
+              "path": "/ai-kb/docs/concepts/nlp/text-style-transfer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/nlp/text-summarization",
+              "path": "/ai-kb/docs/concepts/nlp/text-summarization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/nlp/topic-modeling",
+              "path": "/ai-kb/docs/concepts/nlp/topic-modeling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/nlp/transformers",
+              "path": "/ai-kb/docs/concepts/nlp/transformers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/offline-learning",
+              "path": "/ai-kb/docs/concepts/offline-learning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/scalarization",
+              "path": "/ai-kb/docs/concepts/scalarization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/vision/facial-analytics",
+              "path": "/ai-kb/docs/concepts/vision/facial-analytics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/vision/image-segmentation",
+              "path": "/ai-kb/docs/concepts/vision/image-segmentation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/vision/image-similarity",
+              "path": "/ai-kb/docs/concepts/vision/image-similarity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/vision/object-detection",
+              "path": "/ai-kb/docs/concepts/vision/object-detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/vision/object-tracking",
+              "path": "/ai-kb/docs/concepts/vision/object-tracking",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/vision/pose-estimation",
+              "path": "/ai-kb/docs/concepts/vision/pose-estimation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/vision/scene-text-recognition",
+              "path": "/ai-kb/docs/concepts/vision/scene-text-recognition",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/vision/video-action-recognition",
+              "path": "/ai-kb/docs/concepts/vision/video-action-recognition",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/ai-kb/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "notebooks/notebooks",
+              "path": "/ai-kb/docs/notebooks/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projects/projects",
+              "path": "/ai-kb/docs/projects/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/obp",
+              "path": "/ai-kb/docs/tools/obp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/pachyderm",
+              "path": "/ai-kb/docs/tools/pachyderm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/pyspark",
+              "path": "/ai-kb/docs/tools/pyspark",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/river",
+              "path": "/ai-kb/docs/tools/river",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/tools",
+              "path": "/ai-kb/docs/tools/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/amazon-personalize",
+              "path": "/ai-kb/docs/tutorials/amazon-personalize",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/data-loading",
+              "path": "/ai-kb/docs/tutorials/data-loading",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/database-conn",
+              "path": "/ai-kb/docs/tutorials/database-conn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/email-classification",
+              "path": "/ai-kb/docs/tutorials/email-classification",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/graph",
+              "path": "/ai-kb/docs/tutorials/graph",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/mathematics",
+              "path": "/ai-kb/docs/tutorials/mathematics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/matrix-factorizations",
+              "path": "/ai-kb/docs/tutorials/matrix-factorizations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/mlops",
+              "path": "/ai-kb/docs/tutorials/mlops",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/model-optimization",
+              "path": "/ai-kb/docs/tutorials/model-optimization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/multi-touch-attribution",
+              "path": "/ai-kb/docs/tutorials/multi-touch-attribution",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/name-address-parsing",
+              "path": "/ai-kb/docs/tutorials/name-address-parsing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/negative-implicit-feedback-rec",
+              "path": "/ai-kb/docs/tutorials/negative-implicit-feedback-rec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/pdf-to-wordcloud-mail",
+              "path": "/ai-kb/docs/tutorials/pdf-to-wordcloud-mail",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/python-snippets",
+              "path": "/ai-kb/docs/tutorials/python-snippets",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/recsys-evaluation",
+              "path": "/ai-kb/docs/tutorials/recsys-evaluation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/regression",
+              "path": "/ai-kb/docs/tutorials/regression",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/resale-price-prediction",
+              "path": "/ai-kb/docs/tutorials/resale-price-prediction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/text-cleaning",
+              "path": "/ai-kb/docs/tutorials/text-cleaning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/text-embeddings",
+              "path": "/ai-kb/docs/tutorials/text-embeddings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/text-processing",
+              "path": "/ai-kb/docs/tutorials/text-processing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/tutorials",
+              "path": "/ai-kb/docs/tutorials/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/unix-shell-snippets",
+              "path": "/ai-kb/docs/tutorials/unix-shell-snippets",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/vector-search",
+              "path": "/ai-kb/docs/tutorials/vector-search",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/word2vec",
+              "path": "/ai-kb/docs/tutorials/word2vec",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/ai-kb/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

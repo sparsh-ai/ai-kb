@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorials/text-embeddings",
+  "id": "tutorials/text-embeddings",
+  "title": "Text Embeddings",
+  "description": "Utilities",
+  "source": "@site/docs/04-tutorials/text-embeddings.md",
+  "sourceDirName": "04-tutorials",
+  "slug": "/tutorials/text-embeddings",
+  "permalink": "/ai-kb/docs/tutorials/text-embeddings",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/04-tutorials/text-embeddings.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Text Cleaning",
+    "permalink": "/ai-kb/docs/tutorials/text-cleaning"
+  },
+  "next": {
+    "title": "Text Processing",
+    "permalink": "/ai-kb/docs/tutorials/text-processing"
+  }
+}

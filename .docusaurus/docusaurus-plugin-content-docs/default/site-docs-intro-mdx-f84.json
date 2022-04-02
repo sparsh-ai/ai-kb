@@ -1,0 +1,22 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "Introduction",
+  "description": "",
+  "source": "@site/docs/intro.mdx",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/ai-kb/docs/intro",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/intro.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Projects",
+    "permalink": "/ai-kb/docs/projects/"
+  }
+}

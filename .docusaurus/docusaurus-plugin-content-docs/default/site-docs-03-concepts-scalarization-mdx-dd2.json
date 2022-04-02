@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concepts/scalarization",
+  "id": "concepts/scalarization",
+  "title": "Scalarization",
+  "description": "| Method | Idea | Scalarization | Characteristic |",
+  "source": "@site/docs/03-concepts/scalarization.mdx",
+  "sourceDirName": "03-concepts",
+  "slug": "/concepts/scalarization",
+  "permalink": "/ai-kb/docs/concepts/scalarization",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/scalarization.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Off-Policy Learning",
+    "permalink": "/ai-kb/docs/concepts/offline-learning"
+  },
+  "next": {
+    "title": "Facial Analytics",
+    "permalink": "/ai-kb/docs/concepts/vision/facial-analytics"
+  }
+}

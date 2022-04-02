@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concepts/processes",
+  "id": "concepts/processes",
+  "title": "Processes",
+  "description": "Retrieval and Ranking",
+  "source": "@site/docs/03-concepts/processes.mdx",
+  "sourceDirName": "03-concepts",
+  "slug": "/concepts/processes",
+  "permalink": "/ai-kb/docs/concepts/processes",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/processes.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Off-Policy Learning",
+    "permalink": "/ai-kb/docs/concepts/offline-learning"
+  },
+  "next": {
+    "title": "Scalarization",
+    "permalink": "/ai-kb/docs/concepts/scalarization"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "best-practices/nlp/language-modeling",
+  "id": "best-practices/nlp/language-modeling",
+  "title": "Language Modeling",
+  "description": "Language Models (LMs) estimate the probability of different linguistic units: symbols, tokens, token sequences.",
+  "source": "@site/docs/07-best-practices/nlp/language-modeling.mdx",
+  "sourceDirName": "07-best-practices/nlp",
+  "slug": "/best-practices/nlp/language-modeling",
+  "permalink": "/ai-kb/docs/best-practices/nlp/language-modeling",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/07-best-practices/nlp/language-modeling.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chatbot",
+    "permalink": "/ai-kb/docs/best-practices/nlp/chatbot"
+  },
+  "next": {
+    "title": "Named Entity Recognition",
+    "permalink": "/ai-kb/docs/best-practices/nlp/named-entity-recognition"
+  }
+}

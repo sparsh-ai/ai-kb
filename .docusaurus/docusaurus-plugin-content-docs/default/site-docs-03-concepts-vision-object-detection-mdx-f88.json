@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concepts/vision/object-detection",
+  "id": "concepts/vision/object-detection",
+  "title": "Object Detection",
+  "description": "/img/content-concepts-raw-computer-vision-object-detection-slide29.png",
+  "source": "@site/docs/03-concepts/vision/object-detection.mdx",
+  "sourceDirName": "03-concepts/vision",
+  "slug": "/concepts/vision/object-detection",
+  "permalink": "/ai-kb/docs/concepts/vision/object-detection",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/vision/object-detection.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Image Similarity",
+    "permalink": "/ai-kb/docs/concepts/vision/image-similarity"
+  },
+  "next": {
+    "title": "Object Tracking",
+    "permalink": "/ai-kb/docs/concepts/vision/object-tracking"
+  }
+}

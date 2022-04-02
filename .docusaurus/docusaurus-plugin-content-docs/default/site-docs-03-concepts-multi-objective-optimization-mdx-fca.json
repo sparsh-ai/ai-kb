@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concepts/multi-objective-optimization",
+  "id": "concepts/multi-objective-optimization",
+  "title": "Multi-Objective Optimization",
+  "description": "Recommender systems have been widely applied to several domains and applications. Traditional recommender systems usually deal with a single objective, such as minimizing the prediction errors or maximizing the ranking of the recommendation list. There is an emerging demand for multi-objective optimization so that the development of recommendation models can take multiple objectives into consideration, especially in the area of multi-stakeholder and multi-task recommender systems.",
+  "source": "@site/docs/03-concepts/multi-objective-optimization.mdx",
+  "sourceDirName": "03-concepts",
+  "slug": "/concepts/multi-objective-optimization",
+  "permalink": "/ai-kb/docs/concepts/multi-objective-optimization",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/multi-objective-optimization.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Model Retraining",
+    "permalink": "/ai-kb/docs/concepts/model-retraining"
+  },
+  "next": {
+    "title": "Multi-Task Learning",
+    "permalink": "/ai-kb/docs/concepts/multi-task-learning"
+  }
+}

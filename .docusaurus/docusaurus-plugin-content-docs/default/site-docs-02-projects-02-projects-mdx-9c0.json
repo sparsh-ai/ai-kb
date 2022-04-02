@@ -1,0 +1,24 @@
+{
+  "unversionedId": "projects/projects",
+  "id": "projects/projects",
+  "title": "Projects",
+  "description": "",
+  "source": "@site/docs/02-projects/02-projects.mdx",
+  "sourceDirName": "02-projects",
+  "slug": "/projects/",
+  "permalink": "/ai-kb/docs/projects/",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/02-projects/02-projects.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/ai-kb/docs/intro"
+  },
+  "next": {
+    "title": "Concepts",
+    "permalink": "/ai-kb/docs/concepts/"
+  }
+}

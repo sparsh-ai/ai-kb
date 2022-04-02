@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concepts/meta-learning",
+  "id": "concepts/meta-learning",
+  "title": "Meta Learning",
+  "description": "Meta learning covers a wide range of topics and has contributed to a booming study trend. Few-shot learning is one of successful branches of meta learning. We retrospect some representative meta-learning models with strong connections to our work.",
+  "source": "@site/docs/03-concepts/meta-learning.mdx",
+  "sourceDirName": "03-concepts",
+  "slug": "/concepts/meta-learning",
+  "permalink": "/ai-kb/docs/concepts/meta-learning",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/meta-learning.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Incremental Learning",
+    "permalink": "/ai-kb/docs/concepts/incremental-learning"
+  },
+  "next": {
+    "title": "MLOps",
+    "permalink": "/ai-kb/docs/concepts/mlops"
+  }
+}

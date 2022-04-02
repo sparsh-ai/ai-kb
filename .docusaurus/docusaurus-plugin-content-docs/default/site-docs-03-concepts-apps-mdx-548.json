@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concepts/apps",
+  "id": "concepts/apps",
+  "title": "Apps",
+  "description": "Streamlit",
+  "source": "@site/docs/03-concepts/apps.mdx",
+  "sourceDirName": "03-concepts",
+  "slug": "/concepts/apps",
+  "permalink": "/ai-kb/docs/concepts/apps",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/apps.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Amazon Personalize",
+    "permalink": "/ai-kb/docs/concepts/amazon-personalize"
+  },
+  "next": {
+    "title": "Bias & Fairness",
+    "permalink": "/ai-kb/docs/concepts/bias-&-fairness"
+  }
+}

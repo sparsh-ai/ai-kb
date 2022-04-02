@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concepts/challenges",
+  "id": "concepts/challenges",
+  "title": "Challenges",
+  "description": "The construction of effective Recommender Systems (RS) is a complex process, mainly due to the nature of RSs which involves large scale software-systems and human interactions. Iterative development processes require deep understanding of a current baseline as well as the ability to estimate the impact of changes in multiple variables of interest. Simulations are well suited to address both challenges and potentially leading to a high velocity construction process, a fundamental requirement in commercial contexts. Recently, there has been significant interest in RS Simulation Platforms, which allow RS developers to easily craft simulated environments where their systems can be analyzed.",
+  "source": "@site/docs/03-concepts/challenges.mdx",
+  "sourceDirName": "03-concepts",
+  "slug": "/concepts/challenges",
+  "permalink": "/ai-kb/docs/concepts/challenges",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/challenges.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Causal Inference",
+    "permalink": "/ai-kb/docs/concepts/causal-inference"
+  },
+  "next": {
+    "title": "Cold Start",
+    "permalink": "/ai-kb/docs/concepts/cold-start"
+  }
+}

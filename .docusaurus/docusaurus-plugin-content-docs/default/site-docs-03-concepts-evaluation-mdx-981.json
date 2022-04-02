@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concepts/evaluation",
+  "id": "concepts/evaluation",
+  "title": "Evaluation",
+  "description": "Online vs Offline Evaluation",
+  "source": "@site/docs/03-concepts/evaluation.mdx",
+  "sourceDirName": "03-concepts",
+  "slug": "/concepts/evaluation",
+  "permalink": "/ai-kb/docs/concepts/evaluation",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/evaluation.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Emerging Concepts in Recommender Systems",
+    "permalink": "/ai-kb/docs/concepts/emerging-concepts-in-recommender-systems"
+  },
+  "next": {
+    "title": "Graph Embeddings",
+    "permalink": "/ai-kb/docs/concepts/graph-embeddings"
+  }
+}

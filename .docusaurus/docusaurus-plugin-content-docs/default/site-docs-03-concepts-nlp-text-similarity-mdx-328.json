@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concepts/nlp/text-similarity",
+  "id": "concepts/nlp/text-similarity",
+  "title": "Text Similarity",
+  "description": "/img/content-concepts-raw-nlp-text-similarity-img.png",
+  "source": "@site/docs/03-concepts/nlp/text-similarity.mdx",
+  "sourceDirName": "03-concepts/nlp",
+  "slug": "/concepts/nlp/text-similarity",
+  "permalink": "/ai-kb/docs/concepts/nlp/text-similarity",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/nlp/text-similarity.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Text Generation",
+    "permalink": "/ai-kb/docs/concepts/nlp/text-generation"
+  },
+  "next": {
+    "title": "Text Style Transfer",
+    "permalink": "/ai-kb/docs/concepts/nlp/text-style-transfer"
+  }
+}

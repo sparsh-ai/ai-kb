@@ -1,0 +1,23 @@
+{
+  "unversionedId": "best-practices/nlp/text-similarity",
+  "id": "best-practices/nlp/text-similarity",
+  "title": "Text Similarity",
+  "description": "/img/content-concepts-raw-nlp-text-similarity-img.png",
+  "source": "@site/docs/07-best-practices/nlp/text-similarity.mdx",
+  "sourceDirName": "07-best-practices/nlp",
+  "slug": "/best-practices/nlp/text-similarity",
+  "permalink": "/ai-kb/docs/best-practices/nlp/text-similarity",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/07-best-practices/nlp/text-similarity.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Text Generation",
+    "permalink": "/ai-kb/docs/best-practices/nlp/text-generation"
+  },
+  "next": {
+    "title": "Text Style Transfer",
+    "permalink": "/ai-kb/docs/best-practices/nlp/text-style-transfer"
+  }
+}

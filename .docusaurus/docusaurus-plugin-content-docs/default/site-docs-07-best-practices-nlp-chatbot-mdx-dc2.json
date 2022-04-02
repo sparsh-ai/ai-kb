@@ -1,0 +1,23 @@
+{
+  "unversionedId": "best-practices/nlp/chatbot",
+  "id": "best-practices/nlp/chatbot",
+  "title": "Chatbot",
+  "description": "/img/content-concepts-raw-nlp-chatbot-img.png",
+  "source": "@site/docs/07-best-practices/nlp/chatbot.mdx",
+  "sourceDirName": "07-best-practices/nlp",
+  "slug": "/best-practices/nlp/chatbot",
+  "permalink": "/ai-kb/docs/best-practices/nlp/chatbot",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/07-best-practices/nlp/chatbot.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Makefile",
+    "permalink": "/ai-kb/docs/best-practices/makefile"
+  },
+  "next": {
+    "title": "Language Modeling",
+    "permalink": "/ai-kb/docs/best-practices/nlp/language-modeling"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tutorials/tutorials",
+  "id": "tutorials/tutorials",
+  "title": "Tutorials",
+  "description": "In the following sections, we will more systematically introduce the following concepts:",
+  "source": "@site/docs/04-tutorials/08-tutorials.mdx",
+  "sourceDirName": "04-tutorials",
+  "slug": "/tutorials/tutorials",
+  "permalink": "/ai-kb/docs/tutorials/tutorials",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/04-tutorials/08-tutorials.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Concepts",
+    "permalink": "/ai-kb/docs/concepts/"
+  },
+  "next": {
+    "title": "Amazon Personalize",
+    "permalink": "/ai-kb/docs/tutorials/amazon-personalize"
+  }
+}

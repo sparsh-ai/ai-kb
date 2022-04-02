@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tools/pyspark",
+  "id": "tools/pyspark",
+  "title": "PySpark",
+  "description": "",
+  "source": "@site/docs/05-tools/pyspark.mdx",
+  "sourceDirName": "05-tools",
+  "slug": "/tools/pyspark",
+  "permalink": "/ai-kb/docs/tools/pyspark",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/05-tools/pyspark.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pachyderm",
+    "permalink": "/ai-kb/docs/tools/pachyderm"
+  },
+  "next": {
+    "title": "River",
+    "permalink": "/ai-kb/docs/tools/river"
+  }
+}

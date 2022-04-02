@@ -1,0 +1,184 @@
+{
+  "classification": {
+    "allTagsPath": "/ai-kb/blog/tags",
+    "slug": "/ai-kb/blog/tags/classification",
+    "name": "classification",
+    "count": 1,
+    "permalink": "/ai-kb/blog/tags/classification"
+  },
+  "healthcare": {
+    "allTagsPath": "/ai-kb/blog/tags",
+    "slug": "/ai-kb/blog/tags/healthcare",
+    "name": "healthcare",
+    "count": 2,
+    "permalink": "/ai-kb/blog/tags/healthcare"
+  },
+  "tool": {
+    "allTagsPath": "/ai-kb/blog/tags",
+    "slug": "/ai-kb/blog/tags/tool",
+    "name": "tool",
+    "count": 2,
+    "permalink": "/ai-kb/blog/tags/tool"
+  },
+  "vision": {
+    "allTagsPath": "/ai-kb/blog/tags",
+    "slug": "/ai-kb/blog/tags/vision",
+    "name": "vision",
+    "count": 9,
+    "permalink": "/ai-kb/blog/tags/vision"
+  },
+  "distributed": {
+    "allTagsPath": "/ai-kb/blog/tags",
+    "slug": "/ai-kb/blog/tags/distributed",
+    "name": "distributed",
+    "count": 1,
+    "permalink": "/ai-kb/blog/tags/distributed"
+  },
+  "recsys": {
+    "allTagsPath": "/ai-kb/blog/tags",
+    "slug": "/ai-kb/blog/tags/recsys",
+    "name": "recsys",
+    "count": 3,
+    "permalink": "/ai-kb/blog/tags/recsys"
+  },
+  "nlp": {
+    "allTagsPath": "/ai-kb/blog/tags",
+    "slug": "/ai-kb/blog/tags/nlp",
+    "name": "nlp",
+    "count": 5,
+    "permalink": "/ai-kb/blog/tags/nlp"
+  },
+  "similarity": {
+    "allTagsPath": "/ai-kb/blog/tags",
+    "slug": "/ai-kb/blog/tags/similarity",
+    "name": "similarity",
+    "count": 4,
+    "permalink": "/ai-kb/blog/tags/similarity"
+  },
+  "audio": {
+    "allTagsPath": "/ai-kb/blog/tags",
+    "slug": "/ai-kb/blog/tags/audio",
+    "name": "audio",
+    "count": 1,
+    "permalink": "/ai-kb/blog/tags/audio"
+  },
+  "deepfake": {
+    "allTagsPath": "/ai-kb/blog/tags",
+    "slug": "/ai-kb/blog/tags/deepfake",
+    "name": "deepfake",
+    "count": 1,
+    "permalink": "/ai-kb/blog/tags/deepfake"
+  },
+  "aws beanstalk": {
+    "allTagsPath": "/ai-kb/blog/tags",
+    "slug": "/ai-kb/blog/tags/aws-beanstalk",
+    "name": "aws beanstalk",
+    "count": 1,
+    "permalink": "/ai-kb/blog/tags/aws-beanstalk"
+  },
+  "flask": {
+    "allTagsPath": "/ai-kb/blog/tags",
+    "slug": "/ai-kb/blog/tags/flask",
+    "name": "flask",
+    "count": 2,
+    "permalink": "/ai-kb/blog/tags/flask"
+  },
+  "insurance": {
+    "allTagsPath": "/ai-kb/blog/tags",
+    "slug": "/ai-kb/blog/tags/insurance",
+    "name": "insurance",
+    "count": 1,
+    "permalink": "/ai-kb/blog/tags/insurance"
+  },
+  "personalization": {
+    "allTagsPath": "/ai-kb/blog/tags",
+    "slug": "/ai-kb/blog/tags/personalization",
+    "name": "personalization",
+    "count": 4,
+    "permalink": "/ai-kb/blog/tags/personalization"
+  },
+  "app": {
+    "allTagsPath": "/ai-kb/blog/tags",
+    "slug": "/ai-kb/blog/tags/app",
+    "name": "app",
+    "count": 4,
+    "permalink": "/ai-kb/blog/tags/app"
+  },
+  "ner": {
+    "allTagsPath": "/ai-kb/blog/tags",
+    "slug": "/ai-kb/blog/tags/ner",
+    "name": "ner",
+    "count": 1,
+    "permalink": "/ai-kb/blog/tags/ner"
+  },
+  "object detection": {
+    "allTagsPath": "/ai-kb/blog/tags",
+    "slug": "/ai-kb/blog/tags/object-detection",
+    "name": "object detection",
+    "count": 2,
+    "permalink": "/ai-kb/blog/tags/object-detection"
+  },
+  "opencv": {
+    "allTagsPath": "/ai-kb/blog/tags",
+    "slug": "/ai-kb/blog/tags/opencv",
+    "name": "opencv",
+    "count": 1,
+    "permalink": "/ai-kb/blog/tags/opencv"
+  },
+  "streamlit": {
+    "allTagsPath": "/ai-kb/blog/tags",
+    "slug": "/ai-kb/blog/tags/streamlit",
+    "name": "streamlit",
+    "count": 3,
+    "permalink": "/ai-kb/blog/tags/streamlit"
+  },
+  "ocr": {
+    "allTagsPath": "/ai-kb/blog/tags",
+    "slug": "/ai-kb/blog/tags/ocr",
+    "name": "ocr",
+    "count": 1,
+    "permalink": "/ai-kb/blog/tags/ocr"
+  },
+  "regression": {
+    "allTagsPath": "/ai-kb/blog/tags",
+    "slug": "/ai-kb/blog/tags/regression",
+    "name": "regression",
+    "count": 1,
+    "permalink": "/ai-kb/blog/tags/regression"
+  },
+  "realtime": {
+    "allTagsPath": "/ai-kb/blog/tags",
+    "slug": "/ai-kb/blog/tags/realtime",
+    "name": "realtime",
+    "count": 1,
+    "permalink": "/ai-kb/blog/tags/realtime"
+  },
+  "insight": {
+    "allTagsPath": "/ai-kb/blog/tags",
+    "slug": "/ai-kb/blog/tags/insight",
+    "name": "insight",
+    "count": 1,
+    "permalink": "/ai-kb/blog/tags/insight"
+  },
+  "scraping": {
+    "allTagsPath": "/ai-kb/blog/tags",
+    "slug": "/ai-kb/blog/tags/scraping",
+    "name": "scraping",
+    "count": 2,
+    "permalink": "/ai-kb/blog/tags/scraping"
+  },
+  "chatbot": {
+    "allTagsPath": "/ai-kb/blog/tags",
+    "slug": "/ai-kb/blog/tags/chatbot",
+    "name": "chatbot",
+    "count": 1,
+    "permalink": "/ai-kb/blog/tags/chatbot"
+  },
+  "trend": {
+    "allTagsPath": "/ai-kb/blog/tags",
+    "slug": "/ai-kb/blog/tags/trend",
+    "name": "trend",
+    "count": 1,
+    "permalink": "/ai-kb/blog/tags/trend"
+  }
+}

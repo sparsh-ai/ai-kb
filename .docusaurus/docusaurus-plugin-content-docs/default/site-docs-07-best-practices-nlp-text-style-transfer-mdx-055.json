@@ -1,0 +1,23 @@
+{
+  "unversionedId": "best-practices/nlp/text-style-transfer",
+  "id": "best-practices/nlp/text-style-transfer",
+  "title": "Text Style Transfer",
+  "description": "How to adapt the text to different situations, audiences and purposes by making some changes? The style of the text usually includes many aspects such as morphology, grammar, emotion, complexity, fluency, tense, tone and so on.",
+  "source": "@site/docs/07-best-practices/nlp/text-style-transfer.mdx",
+  "sourceDirName": "07-best-practices/nlp",
+  "slug": "/best-practices/nlp/text-style-transfer",
+  "permalink": "/ai-kb/docs/best-practices/nlp/text-style-transfer",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/07-best-practices/nlp/text-style-transfer.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Text Similarity",
+    "permalink": "/ai-kb/docs/best-practices/nlp/text-similarity"
+  },
+  "next": {
+    "title": "Text Summarization",
+    "permalink": "/ai-kb/docs/best-practices/nlp/text-summarization"
+  }
+}

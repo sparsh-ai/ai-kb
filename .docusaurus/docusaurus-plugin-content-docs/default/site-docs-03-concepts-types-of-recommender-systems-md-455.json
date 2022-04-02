@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concepts/types-of-recommender-systems",
+  "id": "concepts/types-of-recommender-systems",
+  "title": "Types of Recommender Systems",
+  "description": "Group Recommender System",
+  "source": "@site/docs/03-concepts/types-of-recommender-systems.md",
+  "sourceDirName": "03-concepts",
+  "slug": "/concepts/types-of-recommender-systems",
+  "permalink": "/ai-kb/docs/concepts/types-of-recommender-systems",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/types-of-recommender-systems.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tasks",
+    "permalink": "/ai-kb/docs/concepts/tasks"
+  },
+  "next": {
+    "title": "Facial Analytics",
+    "permalink": "/ai-kb/docs/concepts/vision/facial-analytics"
+  }
+}

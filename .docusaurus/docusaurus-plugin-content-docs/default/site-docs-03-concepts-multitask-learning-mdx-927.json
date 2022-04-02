@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concepts/multitask-learning",
+  "id": "concepts/multitask-learning",
+  "title": "Multi-task Learning",
+  "description": "Generally, as soon as you find yourself optimizing more than one loss function, you are effectively doing multi-task learning (in contrast to single-task learning). In those scenarios, it helps to think about what you are trying to do explicitly in terms of MTL and to draw insights from it.",
+  "source": "@site/docs/03-concepts/multitask-learning.mdx",
+  "sourceDirName": "03-concepts",
+  "slug": "/concepts/multitask-learning",
+  "permalink": "/ai-kb/docs/concepts/multitask-learning",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/multitask-learning.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Multi-Task Learning",
+    "permalink": "/ai-kb/docs/concepts/multi-task-learning"
+  },
+  "next": {
+    "title": "Chatbot",
+    "permalink": "/ai-kb/docs/concepts/nlp/chatbot"
+  }
+}

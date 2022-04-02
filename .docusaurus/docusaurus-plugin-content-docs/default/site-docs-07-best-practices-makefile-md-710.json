@@ -1,0 +1,23 @@
+{
+  "unversionedId": "best-practices/makefile",
+  "id": "best-practices/makefile",
+  "title": "Makefile",
+  "description": "",
+  "source": "@site/docs/07-best-practices/makefile.md",
+  "sourceDirName": "07-best-practices",
+  "slug": "/best-practices/makefile",
+  "permalink": "/ai-kb/docs/best-practices/makefile",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/07-best-practices/makefile.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FastAPI Localhost",
+    "permalink": "/ai-kb/docs/best-practices/api/fastapi-localhost"
+  },
+  "next": {
+    "title": "Python code",
+    "permalink": "/ai-kb/docs/best-practices/python-snippets"
+  }
+}

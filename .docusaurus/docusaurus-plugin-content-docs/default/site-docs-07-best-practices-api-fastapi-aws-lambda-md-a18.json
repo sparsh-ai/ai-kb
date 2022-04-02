@@ -1,0 +1,23 @@
+{
+  "unversionedId": "best-practices/api/fastapi-aws-lambda",
+  "id": "best-practices/api/fastapi-aws-lambda",
+  "title": "FastAPI AWS Lambda",
+  "description": "CI/CD Cloudformation template",
+  "source": "@site/docs/07-best-practices/api/fastapi-aws-lambda.md",
+  "sourceDirName": "07-best-practices/api",
+  "slug": "/best-practices/api/fastapi-aws-lambda",
+  "permalink": "/ai-kb/docs/best-practices/api/fastapi-aws-lambda",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/07-best-practices/api/fastapi-aws-lambda.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "API",
+    "permalink": "/ai-kb/docs/best-practices/api/"
+  },
+  "next": {
+    "title": "FastAPI Localhost",
+    "permalink": "/ai-kb/docs/best-practices/api/fastapi-localhost"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concepts/emerging-concepts-in-recommender-systems",
+  "id": "concepts/emerging-concepts-in-recommender-systems",
+  "title": "Emerging Concepts in Recommender Systems",
+  "description": "Real-time Learning and Inference",
+  "source": "@site/docs/03-concepts/emerging-concepts-in-recommender-systems.mdx",
+  "sourceDirName": "03-concepts",
+  "slug": "/concepts/emerging-concepts-in-recommender-systems",
+  "permalink": "/ai-kb/docs/concepts/emerging-concepts-in-recommender-systems",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/emerging-concepts-in-recommender-systems.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Diversity",
+    "permalink": "/ai-kb/docs/concepts/diversity"
+  },
+  "next": {
+    "title": "Evaluation",
+    "permalink": "/ai-kb/docs/concepts/evaluation"
+  }
+}

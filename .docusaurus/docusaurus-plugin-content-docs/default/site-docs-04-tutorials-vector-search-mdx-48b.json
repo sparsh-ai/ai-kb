@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorials/vector-search",
+  "id": "tutorials/vector-search",
+  "title": "Vector Search",
+  "description": "Faiss",
+  "source": "@site/docs/04-tutorials/vector-search.mdx",
+  "sourceDirName": "04-tutorials",
+  "slug": "/tutorials/vector-search",
+  "permalink": "/ai-kb/docs/tutorials/vector-search",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/04-tutorials/vector-search.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Unix shell",
+    "permalink": "/ai-kb/docs/tutorials/unix-shell-snippets"
+  },
+  "next": {
+    "title": "Word2vec",
+    "permalink": "/ai-kb/docs/tutorials/word2vec"
+  }
+}

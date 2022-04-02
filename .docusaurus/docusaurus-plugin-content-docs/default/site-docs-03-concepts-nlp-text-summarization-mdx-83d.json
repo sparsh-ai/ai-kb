@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concepts/nlp/text-summarization",
+  "id": "concepts/nlp/text-summarization",
+  "title": "Text Summarization",
+  "description": "/img/content-concepts-raw-nlp-text-summarization-untitled.png",
+  "source": "@site/docs/03-concepts/nlp/text-summarization.mdx",
+  "sourceDirName": "03-concepts/nlp",
+  "slug": "/concepts/nlp/text-summarization",
+  "permalink": "/ai-kb/docs/concepts/nlp/text-summarization",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/nlp/text-summarization.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Text Style Transfer",
+    "permalink": "/ai-kb/docs/concepts/nlp/text-style-transfer"
+  },
+  "next": {
+    "title": "Topic Modeling",
+    "permalink": "/ai-kb/docs/concepts/nlp/topic-modeling"
+  }
+}

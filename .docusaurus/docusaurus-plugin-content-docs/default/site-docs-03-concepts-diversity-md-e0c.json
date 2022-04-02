@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concepts/diversity",
+  "id": "concepts/diversity",
+  "title": "Diversity",
+  "description": "Individual-level diversity and System-level diversity",
+  "source": "@site/docs/03-concepts/diversity.md",
+  "sourceDirName": "03-concepts",
+  "slug": "/concepts/diversity",
+  "permalink": "/ai-kb/docs/concepts/diversity",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/diversity.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Data Science",
+    "permalink": "/ai-kb/docs/concepts/data-science"
+  },
+  "next": {
+    "title": "Emerging Concepts in Recommender Systems",
+    "permalink": "/ai-kb/docs/concepts/emerging-concepts-in-recommender-systems"
+  }
+}

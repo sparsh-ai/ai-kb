@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/tools",
+  "id": "tools/tools",
+  "title": "Tools",
+  "description": "In the following sections, we will more systematically introduce the following tools:",
+  "source": "@site/docs/05-tools/05-tools.mdx",
+  "sourceDirName": "05-tools",
+  "slug": "/tools/",
+  "permalink": "/ai-kb/docs/tools/",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/05-tools/05-tools.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Word2vec",
+    "permalink": "/ai-kb/docs/tutorials/word2vec"
+  },
+  "next": {
+    "title": "OBP",
+    "permalink": "/ai-kb/docs/tools/obp"
+  }
+}

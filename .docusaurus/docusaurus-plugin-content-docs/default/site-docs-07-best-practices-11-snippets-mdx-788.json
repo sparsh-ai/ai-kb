@@ -1,0 +1,24 @@
+{
+  "unversionedId": "best-practices/snippets",
+  "id": "best-practices/snippets",
+  "title": "Snippets",
+  "description": "In the following sections, we will more systematically introduce the following snippets:",
+  "source": "@site/docs/07-best-practices/11-snippets.mdx",
+  "sourceDirName": "07-best-practices",
+  "slug": "/best-practices/snippets",
+  "permalink": "/ai-kb/docs/best-practices/snippets",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/07-best-practices/11-snippets.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Notebooks",
+    "permalink": "/ai-kb/docs/notebooks/"
+  },
+  "next": {
+    "title": "Python code",
+    "permalink": "/ai-kb/docs/best-practices/python-snippets"
+  }
+}

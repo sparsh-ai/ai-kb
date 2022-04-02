@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tools/obp",
+  "id": "tools/obp",
+  "title": "OBP",
+  "description": "Process flow",
+  "source": "@site/docs/05-tools/obp.mdx",
+  "sourceDirName": "05-tools",
+  "slug": "/tools/obp",
+  "permalink": "/ai-kb/docs/tools/obp",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/05-tools/obp.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tools",
+    "permalink": "/ai-kb/docs/tools/"
+  },
+  "next": {
+    "title": "Pachyderm",
+    "permalink": "/ai-kb/docs/tools/pachyderm"
+  }
+}

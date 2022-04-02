@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorials/amazon-personalize",
+  "id": "tutorials/amazon-personalize",
+  "title": "Amazon Personalize",
+  "description": "| Description | Notebook |",
+  "source": "@site/docs/04-tutorials/amazon-personalize.mdx",
+  "sourceDirName": "04-tutorials",
+  "slug": "/tutorials/amazon-personalize",
+  "permalink": "/ai-kb/docs/tutorials/amazon-personalize",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/04-tutorials/amazon-personalize.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorials",
+    "permalink": "/ai-kb/docs/tutorials/"
+  },
+  "next": {
+    "title": "Data Loading",
+    "permalink": "/ai-kb/docs/tutorials/data-loading"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorials/name-address-parsing",
+  "id": "tutorials/name-address-parsing",
+  "title": "Name and Address Parsing",
+  "description": "Recognising Person names and Addresses in a text using NER and NLP modeling techniques",
+  "source": "@site/docs/04-tutorials/name-address-parsing.mdx",
+  "sourceDirName": "04-tutorials",
+  "slug": "/tutorials/name-address-parsing",
+  "permalink": "/ai-kb/docs/tutorials/name-address-parsing",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/04-tutorials/name-address-parsing.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Multi-Touch Attribution",
+    "permalink": "/ai-kb/docs/tutorials/multi-touch-attribution"
+  },
+  "next": {
+    "title": "Negative Implicit Feedback in Recommendations",
+    "permalink": "/ai-kb/docs/tutorials/negative-implicit-feedback-rec"
+  }
+}

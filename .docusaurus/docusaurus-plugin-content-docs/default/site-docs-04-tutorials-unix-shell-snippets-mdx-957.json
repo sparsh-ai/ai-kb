@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorials/unix-shell-snippets",
+  "id": "tutorials/unix-shell-snippets",
+  "title": "Unix shell",
+  "description": "Replace file extension of all files in a folder",
+  "source": "@site/docs/04-tutorials/unix-shell-snippets.mdx",
+  "sourceDirName": "04-tutorials",
+  "slug": "/tutorials/unix-shell-snippets",
+  "permalink": "/ai-kb/docs/tutorials/unix-shell-snippets",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/04-tutorials/unix-shell-snippets.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Text Processing",
+    "permalink": "/ai-kb/docs/tutorials/text-processing"
+  },
+  "next": {
+    "title": "Vector Search",
+    "permalink": "/ai-kb/docs/tutorials/vector-search"
+  }
+}

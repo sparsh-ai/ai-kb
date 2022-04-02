@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concepts/collaborative-filtering",
+  "id": "concepts/collaborative-filtering",
+  "title": "Collaborative Filtering",
+  "description": "Similarity methods",
+  "source": "@site/docs/03-concepts/collaborative-filtering.mdx",
+  "sourceDirName": "03-concepts",
+  "slug": "/concepts/collaborative-filtering",
+  "permalink": "/ai-kb/docs/concepts/collaborative-filtering",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/collaborative-filtering.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cold Start",
+    "permalink": "/ai-kb/docs/concepts/cold-start"
+  },
+  "next": {
+    "title": "Cross-domain",
+    "permalink": "/ai-kb/docs/concepts/cross-domain"
+  }
+}

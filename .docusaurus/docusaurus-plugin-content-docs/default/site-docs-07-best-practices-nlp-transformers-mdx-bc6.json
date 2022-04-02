@@ -1,0 +1,23 @@
+{
+  "unversionedId": "best-practices/nlp/transformers",
+  "id": "best-practices/nlp/transformers",
+  "title": "Transformers",
+  "description": "The old, obsolete, 1980 architecture of Recurrent Neural Networks(RNNs) including the LSTMs were simply not producing good results anymore. In less than two years, transformer models wiped RNNs off the map and even outperformed human baselines for many tasks.",
+  "source": "@site/docs/07-best-practices/nlp/transformers.mdx",
+  "sourceDirName": "07-best-practices/nlp",
+  "slug": "/best-practices/nlp/transformers",
+  "permalink": "/ai-kb/docs/best-practices/nlp/transformers",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/07-best-practices/nlp/transformers.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Topic Modeling",
+    "permalink": "/ai-kb/docs/best-practices/nlp/topic-modeling"
+  },
+  "next": {
+    "title": "Python code",
+    "permalink": "/ai-kb/docs/best-practices/python-snippets"
+  }
+}

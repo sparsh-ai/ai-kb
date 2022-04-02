@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concepts/implicit-feedback",
+  "id": "concepts/implicit-feedback",
+  "title": "User Feedback",
+  "description": "Explicit vs. implicit users feedback",
+  "source": "@site/docs/03-concepts/implicit-feedback.mdx",
+  "sourceDirName": "03-concepts",
+  "slug": "/concepts/implicit-feedback",
+  "permalink": "/ai-kb/docs/concepts/implicit-feedback",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/implicit-feedback.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Graph Networks",
+    "permalink": "/ai-kb/docs/concepts/graph-networks"
+  },
+  "next": {
+    "title": "Incremental Learning",
+    "permalink": "/ai-kb/docs/concepts/incremental-learning"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concepts/amazon-personalize",
+  "id": "concepts/amazon-personalize",
+  "title": "Amazon Personalize",
+  "description": "This page is a random dump of my notes on Amazon Personalize. Proceed accordingly.",
+  "source": "@site/docs/03-concepts/amazon-personalize.mdx",
+  "sourceDirName": "03-concepts",
+  "slug": "/concepts/amazon-personalize",
+  "permalink": "/ai-kb/docs/concepts/amazon-personalize",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/amazon-personalize.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Concepts",
+    "permalink": "/ai-kb/docs/concepts/"
+  },
+  "next": {
+    "title": "Apps",
+    "permalink": "/ai-kb/docs/concepts/apps"
+  }
+}

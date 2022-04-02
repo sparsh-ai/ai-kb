@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concepts/vision/image-similarity",
+  "id": "concepts/vision/image-similarity",
+  "title": "Image Similarity",
+  "description": "/img/content-concepts-raw-computer-vision-image-similarity-slide19.png",
+  "source": "@site/docs/03-concepts/vision/image-similarity.mdx",
+  "sourceDirName": "03-concepts/vision",
+  "slug": "/concepts/vision/image-similarity",
+  "permalink": "/ai-kb/docs/concepts/vision/image-similarity",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/vision/image-similarity.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Image Segmentation",
+    "permalink": "/ai-kb/docs/concepts/vision/image-segmentation"
+  },
+  "next": {
+    "title": "Object Detection",
+    "permalink": "/ai-kb/docs/concepts/vision/object-detection"
+  }
+}

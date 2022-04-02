@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concepts/nlp/topic-modeling",
+  "id": "concepts/nlp/topic-modeling",
+  "title": "Topic Modeling",
+  "description": "/img/content-concepts-raw-nlp-topic-modeling-img.png",
+  "source": "@site/docs/03-concepts/nlp/topic-modeling.mdx",
+  "sourceDirName": "03-concepts/nlp",
+  "slug": "/concepts/nlp/topic-modeling",
+  "permalink": "/ai-kb/docs/concepts/nlp/topic-modeling",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/nlp/topic-modeling.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Text Summarization",
+    "permalink": "/ai-kb/docs/concepts/nlp/text-summarization"
+  },
+  "next": {
+    "title": "Transformers",
+    "permalink": "/ai-kb/docs/concepts/nlp/transformers"
+  }
+}

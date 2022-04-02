@@ -1,0 +1,23 @@
+{
+  "unversionedId": "best-practices/api/text-classification",
+  "id": "best-practices/api/text-classification",
+  "title": "Text Classification",
+  "description": "/img/content-concepts-raw-text-classification-img.png",
+  "source": "@site/docs/07-best-practices/api/text-classification.mdx",
+  "sourceDirName": "07-best-practices/api",
+  "slug": "/best-practices/api/text-classification",
+  "permalink": "/ai-kb/docs/best-practices/api/text-classification",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/07-best-practices/api/text-classification.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Text Analysis",
+    "permalink": "/ai-kb/docs/best-practices/api/text-analysis"
+  },
+  "next": {
+    "title": "Text Generation",
+    "permalink": "/ai-kb/docs/best-practices/api/text-generation"
+  }
+}

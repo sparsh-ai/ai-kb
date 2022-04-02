@@ -1,0 +1,24 @@
+{
+  "unversionedId": "concepts/concepts",
+  "id": "concepts/concepts",
+  "title": "Concepts",
+  "description": "In the following sections, we will more systematically introduce the following concepts:",
+  "source": "@site/docs/03-concepts/05-concepts.mdx",
+  "sourceDirName": "03-concepts",
+  "slug": "/concepts/concepts",
+  "permalink": "/ai-kb/docs/concepts/concepts",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/05-concepts.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Projects",
+    "permalink": "/ai-kb/docs/projects/"
+  },
+  "next": {
+    "title": "Chatbot",
+    "permalink": "/ai-kb/docs/concepts/nlp/chatbot"
+  }
+}

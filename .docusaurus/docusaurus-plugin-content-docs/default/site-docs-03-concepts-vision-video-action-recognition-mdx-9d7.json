@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concepts/vision/video-action-recognition",
+  "id": "concepts/vision/video-action-recognition",
+  "title": "Video Action Recognition",
+  "description": "/img/content-concepts-raw-computer-vision-video-action-recognition-img.png",
+  "source": "@site/docs/03-concepts/vision/video-action-recognition.mdx",
+  "sourceDirName": "03-concepts/vision",
+  "slug": "/concepts/vision/video-action-recognition",
+  "permalink": "/ai-kb/docs/concepts/vision/video-action-recognition",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/vision/video-action-recognition.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Scene Text Recognition",
+    "permalink": "/ai-kb/docs/concepts/vision/scene-text-recognition"
+  },
+  "next": {
+    "title": "Tutorials",
+    "permalink": "/ai-kb/docs/tutorials/"
+  }
+}

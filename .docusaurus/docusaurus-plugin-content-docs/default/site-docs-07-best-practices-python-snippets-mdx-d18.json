@@ -1,0 +1,23 @@
+{
+  "unversionedId": "best-practices/python-snippets",
+  "id": "best-practices/python-snippets",
+  "title": "Python code",
+  "description": "Insert path in scripts",
+  "source": "@site/docs/07-best-practices/python-snippets.mdx",
+  "sourceDirName": "07-best-practices",
+  "slug": "/best-practices/python-snippets",
+  "permalink": "/ai-kb/docs/best-practices/python-snippets",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/07-best-practices/python-snippets.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Makefile",
+    "permalink": "/ai-kb/docs/best-practices/makefile"
+  },
+  "next": {
+    "title": "Unix shell",
+    "permalink": "/ai-kb/docs/best-practices/unix-shell-snippets"
+  }
+}
