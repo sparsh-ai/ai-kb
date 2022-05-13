@@ -14,14 +14,14 @@ export default {
   "organizationName": "sparsh-ai",
   "projectName": "ai-kb",
   "plugins": [
-    "/Users/sparshagarwal/Desktop/up/o289458/ai-kb/node_modules/@cmfcmf/docusaurus-search-local/lib/server/index.js"
+    "/Users/sparshagarwal/Desktop/up/open-source/ai-kb/node_modules/@cmfcmf/docusaurus-search-local/lib/server/index.js"
   ],
   "presets": [
     [
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/Users/sparshagarwal/Desktop/up/o289458/ai-kb/sidebars.js",
+          "sidebarPath": "/Users/sparshagarwal/Desktop/up/open-source/ai-kb/sidebars.js",
           "editUrl": "https://github.com/sparsh-ai/ai-kb",
           "remarkPlugins": [
             null
@@ -31,7 +31,7 @@ export default {
           ]
         },
         "theme": {
-          "customCss": "/Users/sparshagarwal/Desktop/up/o289458/ai-kb/src/css/custom.css"
+          "customCss": "/Users/sparshagarwal/Desktop/up/open-source/ai-kb/src/css/custom.css"
         }
       }
     ]

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "training-courses/sagemaker/api",
+  "id": "training-courses/sagemaker/api",
+  "title": "SageMaker",
+  "description": "In the following sections, we will more systematically introduce the following items:",
+  "source": "@site/docs/08-training-courses/sagemaker/api.md",
+  "sourceDirName": "08-training-courses/sagemaker",
+  "slug": "/training-courses/sagemaker/api",
+  "permalink": "/ai-kb/docs/training-courses/sagemaker/api",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/08-training-courses/sagemaker/api.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Snippets",
+    "permalink": "/ai-kb/docs/training-courses/"
+  },
+  "next": {
+    "title": "FastAPI AWS Lambda",
+    "permalink": "/ai-kb/docs/training-courses/sagemaker/fastapi-aws-lambda"
+  }
+}

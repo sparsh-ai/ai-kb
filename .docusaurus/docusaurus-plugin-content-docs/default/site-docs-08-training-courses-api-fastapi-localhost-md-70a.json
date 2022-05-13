@@ -1,0 +1,19 @@
+{
+  "unversionedId": "training-courses/api/fastapi-localhost",
+  "id": "training-courses/api/fastapi-localhost",
+  "title": "FastAPI Localhost",
+  "description": "Requirements",
+  "source": "@site/docs/08-training-courses/api/fastapi-localhost.md",
+  "sourceDirName": "08-training-courses/api",
+  "slug": "/training-courses/api/fastapi-localhost",
+  "permalink": "/ai-kb/docs/training-courses/api/fastapi-localhost",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/08-training-courses/api/fastapi-localhost.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FastAPI AWS Lambda",
+    "permalink": "/ai-kb/docs/training-courses/api/fastapi-aws-lambda"
+  }
+}

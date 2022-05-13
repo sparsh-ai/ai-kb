@@ -1,7 +1,7 @@
 # Email Classification
 
 
-<a href="https://nbviewer.org/github/recohut/nbs/blob/main/2022-01-02-email-classification.ipynb" alt=""> <img src="https://colab.research.google.com/assets/colab-badge.svg" /></a>
+<a href="https://nbviewer.org/github/recohut/notebook/blob/master/_notebooks/2022-01-02-email-classification.ipynb" alt=""> <img src="https://colab.research.google.com/assets/colab-badge.svg" /></a>
 
 
 

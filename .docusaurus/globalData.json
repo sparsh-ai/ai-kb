@@ -39,6 +39,26 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "best-practices/documentation/documentation",
+              "path": "/ai-kb/docs/best-practices/documentation/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "best-practices/documentation/docusaurus",
+              "path": "/ai-kb/docs/best-practices/documentation/docusaurus",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "best-practices/documentation/mkdocs",
+              "path": "/ai-kb/docs/best-practices/documentation/mkdocs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "best-practices/documentation/sphinx",
+              "path": "/ai-kb/docs/best-practices/documentation/sphinx",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "best-practices/makefile",
               "path": "/ai-kb/docs/best-practices/makefile",
               "sidebar": "tutorialSidebar"
@@ -89,6 +109,26 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "concepts/frameworks/ds-vs-de",
+              "path": "/ai-kb/docs/concepts/frameworks/ds-vs-de",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/frameworks/frameworks",
+              "path": "/ai-kb/docs/concepts/frameworks/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/frameworks/machine-learning-solution",
+              "path": "/ai-kb/docs/concepts/frameworks/machine-learning-solution",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/frameworks/project-management",
+              "path": "/ai-kb/docs/concepts/frameworks/project-management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "concepts/graph-embeddings",
               "path": "/ai-kb/docs/concepts/graph-embeddings",
               "sidebar": "tutorialSidebar"
@@ -101,6 +141,11 @@
             {
               "id": "concepts/incremental-learning",
               "path": "/ai-kb/docs/concepts/incremental-learning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/ipython",
+              "path": "/ai-kb/docs/concepts/ipython",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -121,6 +166,11 @@
             {
               "id": "concepts/model-retraining",
               "path": "/ai-kb/docs/concepts/model-retraining",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/models",
+              "path": "/ai-kb/docs/concepts/models",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -284,6 +334,21 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "training-courses/sagemaker/resources",
+              "path": "/ai-kb/docs/training-courses/sagemaker/resources",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "training-courses/sagemaker/sagemaker",
+              "path": "/ai-kb/docs/training-courses/sagemaker/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "training-courses/training-courses",
+              "path": "/ai-kb/docs/training-courses/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "tutorials/amazon-personalize",
               "path": "/ai-kb/docs/tutorials/amazon-personalize",
               "sidebar": "tutorialSidebar"
@@ -304,8 +369,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "tutorials/google-cloud",
+              "path": "/ai-kb/docs/tutorials/google-cloud",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "tutorials/graph",
               "path": "/ai-kb/docs/tutorials/graph",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/kubernetes",
+              "path": "/ai-kb/docs/tutorials/kubernetes",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -341,6 +416,11 @@
             {
               "id": "tutorials/negative-implicit-feedback-rec",
               "path": "/ai-kb/docs/tutorials/negative-implicit-feedback-rec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/outliers-handling",
+              "path": "/ai-kb/docs/tutorials/outliers-handling",
               "sidebar": "tutorialSidebar"
             },
             {

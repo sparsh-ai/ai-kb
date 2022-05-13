@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concepts/ipython",
+  "id": "concepts/ipython",
+  "title": "IPython",
+  "description": "| IDE | Description | Cost |",
+  "source": "@site/docs/03-concepts/ipython.md",
+  "sourceDirName": "03-concepts",
+  "slug": "/concepts/ipython",
+  "permalink": "/ai-kb/docs/concepts/ipython",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/ipython.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Incremental Learning",
+    "permalink": "/ai-kb/docs/concepts/incremental-learning"
+  },
+  "next": {
+    "title": "Meta Learning",
+    "permalink": "/ai-kb/docs/concepts/meta-learning"
+  }
+}

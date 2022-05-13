@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorials/google-cloud",
+  "id": "tutorials/google-cloud",
+  "title": "Google Cloud Big Data and Machine Learning Fundamentals",
+  "description": "Exploring a BigQuery Public Dataset",
+  "source": "@site/docs/04-tutorials/google-cloud.md",
+  "sourceDirName": "04-tutorials",
+  "slug": "/tutorials/google-cloud",
+  "permalink": "/ai-kb/docs/tutorials/google-cloud",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/04-tutorials/google-cloud.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Email Classification",
+    "permalink": "/ai-kb/docs/tutorials/email-classification"
+  },
+  "next": {
+    "title": "Graph-based Modeling",
+    "permalink": "/ai-kb/docs/tutorials/graph"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "best-practices/documentation/sphinx",
+  "id": "best-practices/documentation/sphinx",
+  "title": "Sphinx",
+  "description": "For example, this is how the documentation site looks//reco-base.readthedocs.io/en/latest",
+  "source": "@site/docs/07-best-practices/documentation/sphinx.md",
+  "sourceDirName": "07-best-practices/documentation",
+  "slug": "/best-practices/documentation/sphinx",
+  "permalink": "/ai-kb/docs/best-practices/documentation/sphinx",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/07-best-practices/documentation/sphinx.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MkDocs",
+    "permalink": "/ai-kb/docs/best-practices/documentation/mkdocs"
+  },
+  "next": {
+    "title": "Makefile",
+    "permalink": "/ai-kb/docs/best-practices/makefile"
+  }
+}

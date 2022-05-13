@@ -1,0 +1,23 @@
+{
+  "unversionedId": "best-practices/documentation/mkdocs",
+  "id": "best-practices/documentation/mkdocs",
+  "title": "MkDocs",
+  "description": "For example, this is how the documentation site looks//sparsh-ai.github.io/reco-base",
+  "source": "@site/docs/07-best-practices/documentation/mkdocs.md",
+  "sourceDirName": "07-best-practices/documentation",
+  "slug": "/best-practices/documentation/mkdocs",
+  "permalink": "/ai-kb/docs/best-practices/documentation/mkdocs",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/07-best-practices/documentation/mkdocs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Docusaurus",
+    "permalink": "/ai-kb/docs/best-practices/documentation/docusaurus"
+  },
+  "next": {
+    "title": "Sphinx",
+    "permalink": "/ai-kb/docs/best-practices/documentation/sphinx"
+  }
+}

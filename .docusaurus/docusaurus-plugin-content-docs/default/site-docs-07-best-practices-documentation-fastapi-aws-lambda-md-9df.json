@@ -1,0 +1,23 @@
+{
+  "unversionedId": "best-practices/documentation/fastapi-aws-lambda",
+  "id": "best-practices/documentation/fastapi-aws-lambda",
+  "title": "Docusaurus",
+  "description": "AWS Amplifiy for hosting",
+  "source": "@site/docs/07-best-practices/documentation/fastapi-aws-lambda.md",
+  "sourceDirName": "07-best-practices/documentation",
+  "slug": "/best-practices/documentation/fastapi-aws-lambda",
+  "permalink": "/ai-kb/docs/best-practices/documentation/fastapi-aws-lambda",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/07-best-practices/documentation/fastapi-aws-lambda.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Documentation",
+    "permalink": "/ai-kb/docs/best-practices/documentation/"
+  },
+  "next": {
+    "title": "MkDocs",
+    "permalink": "/ai-kb/docs/best-practices/documentation/fastapi-localhost"
+  }
+}

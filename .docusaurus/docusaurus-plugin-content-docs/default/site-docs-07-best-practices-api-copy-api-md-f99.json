@@ -1,0 +1,23 @@
+{
+  "unversionedId": "best-practices/api copy/api",
+  "id": "best-practices/api copy/api",
+  "title": "API",
+  "description": "In the following sections, we will more systematically introduce the following items:",
+  "source": "@site/docs/07-best-practices/api copy/api.md",
+  "sourceDirName": "07-best-practices/api copy",
+  "slug": "/best-practices/api copy/api",
+  "permalink": "/ai-kb/docs/best-practices/api copy/api",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/07-best-practices/api copy/api.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FastAPI Localhost",
+    "permalink": "/ai-kb/docs/best-practices/api/fastapi-localhost"
+  },
+  "next": {
+    "title": "FastAPI AWS Lambda",
+    "permalink": "/ai-kb/docs/best-practices/api copy/fastapi-aws-lambda"
+  }
+}

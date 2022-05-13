@@ -1,0 +1,23 @@
+{
+  "unversionedId": "training-courses/sagemaker/fastapi-aws-lambda",
+  "id": "training-courses/sagemaker/fastapi-aws-lambda",
+  "title": "FastAPI AWS Lambda",
+  "description": "CI/CD Cloudformation template",
+  "source": "@site/docs/08-training-courses/sagemaker/fastapi-aws-lambda.md",
+  "sourceDirName": "08-training-courses/sagemaker",
+  "slug": "/training-courses/sagemaker/fastapi-aws-lambda",
+  "permalink": "/ai-kb/docs/training-courses/sagemaker/fastapi-aws-lambda",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/08-training-courses/sagemaker/fastapi-aws-lambda.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SageMaker",
+    "permalink": "/ai-kb/docs/training-courses/sagemaker/sagemaker"
+  },
+  "next": {
+    "title": "FastAPI Localhost",
+    "permalink": "/ai-kb/docs/training-courses/sagemaker/fastapi-localhost"
+  }
+}

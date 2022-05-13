@@ -14,9 +14,9 @@
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/sparshagarwal/Desktop/up/o289458/ai-kb/sidebars.js",
-          "contentPath": "/Users/sparshagarwal/Desktop/up/o289458/ai-kb/docs",
-          "contentPathLocalized": "/Users/sparshagarwal/Desktop/up/o289458/ai-kb/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/sparshagarwal/Desktop/up/open-source/ai-kb/sidebars.js",
+          "contentPath": "/Users/sparshagarwal/Desktop/up/open-source/ai-kb/docs",
+          "contentPathLocalized": "/Users/sparshagarwal/Desktop/up/open-source/ai-kb/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "best-practices/api/api",
@@ -83,8 +83,8 @@
                 "permalink": "/ai-kb/docs/best-practices/api/fastapi-aws-lambda"
               },
               "next": {
-                "title": "Makefile",
-                "permalink": "/ai-kb/docs/best-practices/makefile"
+                "title": "Documentation",
+                "permalink": "/ai-kb/docs/best-practices/documentation/"
               }
             },
             {
@@ -112,6 +112,98 @@
               }
             },
             {
+              "unversionedId": "best-practices/documentation/documentation",
+              "id": "best-practices/documentation/documentation",
+              "title": "Documentation",
+              "description": "In the following sections, we will more systematically introduce the following items:",
+              "source": "@site/docs/07-best-practices/documentation/documentation.md",
+              "sourceDirName": "07-best-practices/documentation",
+              "slug": "/best-practices/documentation/",
+              "permalink": "/ai-kb/docs/best-practices/documentation/",
+              "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/07-best-practices/documentation/documentation.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "FastAPI Localhost",
+                "permalink": "/ai-kb/docs/best-practices/api/fastapi-localhost"
+              },
+              "next": {
+                "title": "Docusaurus",
+                "permalink": "/ai-kb/docs/best-practices/documentation/docusaurus"
+              }
+            },
+            {
+              "unversionedId": "best-practices/documentation/docusaurus",
+              "id": "best-practices/documentation/docusaurus",
+              "title": "Docusaurus",
+              "description": "AWS Amplifiy for hosting",
+              "source": "@site/docs/07-best-practices/documentation/docusaurus.md",
+              "sourceDirName": "07-best-practices/documentation",
+              "slug": "/best-practices/documentation/docusaurus",
+              "permalink": "/ai-kb/docs/best-practices/documentation/docusaurus",
+              "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/07-best-practices/documentation/docusaurus.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Documentation",
+                "permalink": "/ai-kb/docs/best-practices/documentation/"
+              },
+              "next": {
+                "title": "MkDocs",
+                "permalink": "/ai-kb/docs/best-practices/documentation/mkdocs"
+              }
+            },
+            {
+              "unversionedId": "best-practices/documentation/mkdocs",
+              "id": "best-practices/documentation/mkdocs",
+              "title": "MkDocs",
+              "description": "For example, this is how the documentation site looks//sparsh-ai.github.io/reco-base",
+              "source": "@site/docs/07-best-practices/documentation/mkdocs.md",
+              "sourceDirName": "07-best-practices/documentation",
+              "slug": "/best-practices/documentation/mkdocs",
+              "permalink": "/ai-kb/docs/best-practices/documentation/mkdocs",
+              "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/07-best-practices/documentation/mkdocs.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Docusaurus",
+                "permalink": "/ai-kb/docs/best-practices/documentation/docusaurus"
+              },
+              "next": {
+                "title": "Sphinx",
+                "permalink": "/ai-kb/docs/best-practices/documentation/sphinx"
+              }
+            },
+            {
+              "unversionedId": "best-practices/documentation/sphinx",
+              "id": "best-practices/documentation/sphinx",
+              "title": "Sphinx",
+              "description": "For example, this is how the documentation site looks//reco-base.readthedocs.io/en/latest",
+              "source": "@site/docs/07-best-practices/documentation/sphinx.md",
+              "sourceDirName": "07-best-practices/documentation",
+              "slug": "/best-practices/documentation/sphinx",
+              "permalink": "/ai-kb/docs/best-practices/documentation/sphinx",
+              "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/07-best-practices/documentation/sphinx.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "MkDocs",
+                "permalink": "/ai-kb/docs/best-practices/documentation/mkdocs"
+              },
+              "next": {
+                "title": "Makefile",
+                "permalink": "/ai-kb/docs/best-practices/makefile"
+              }
+            },
+            {
               "unversionedId": "best-practices/makefile",
               "id": "best-practices/makefile",
               "title": "Makefile",
@@ -126,8 +218,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "FastAPI Localhost",
-                "permalink": "/ai-kb/docs/best-practices/api/fastapi-localhost"
+                "title": "Sphinx",
+                "permalink": "/ai-kb/docs/best-practices/documentation/sphinx"
               },
               "next": {
                 "title": "Python code",
@@ -174,6 +266,10 @@
               "previous": {
                 "title": "Python code",
                 "permalink": "/ai-kb/docs/best-practices/python-snippets"
+              },
+              "next": {
+                "title": "Snippets",
+                "permalink": "/ai-kb/docs/training-courses/"
               }
             },
             {
@@ -334,6 +430,98 @@
                 "permalink": "/ai-kb/docs/concepts/cross-domain"
               },
               "next": {
+                "title": "Frameworks",
+                "permalink": "/ai-kb/docs/concepts/frameworks/"
+              }
+            },
+            {
+              "unversionedId": "concepts/frameworks/ds-vs-de",
+              "id": "concepts/frameworks/ds-vs-de",
+              "title": "Data Science & Engineering",
+              "description": "",
+              "source": "@site/docs/03-concepts/frameworks/ds-vs-de.md",
+              "sourceDirName": "03-concepts/frameworks",
+              "slug": "/concepts/frameworks/ds-vs-de",
+              "permalink": "/ai-kb/docs/concepts/frameworks/ds-vs-de",
+              "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/frameworks/ds-vs-de.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Frameworks",
+                "permalink": "/ai-kb/docs/concepts/frameworks/"
+              },
+              "next": {
+                "title": "ML Solution",
+                "permalink": "/ai-kb/docs/concepts/frameworks/machine-learning-solution"
+              }
+            },
+            {
+              "unversionedId": "concepts/frameworks/frameworks",
+              "id": "concepts/frameworks/frameworks",
+              "title": "Frameworks",
+              "description": "In the following sections, we will more systematically introduce the following frameworks:",
+              "source": "@site/docs/03-concepts/frameworks/frameworks.md",
+              "sourceDirName": "03-concepts/frameworks",
+              "slug": "/concepts/frameworks/",
+              "permalink": "/ai-kb/docs/concepts/frameworks/",
+              "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/frameworks/frameworks.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Data Science",
+                "permalink": "/ai-kb/docs/concepts/data-science"
+              },
+              "next": {
+                "title": "Data Science & Engineering",
+                "permalink": "/ai-kb/docs/concepts/frameworks/ds-vs-de"
+              }
+            },
+            {
+              "unversionedId": "concepts/frameworks/machine-learning-solution",
+              "id": "concepts/frameworks/machine-learning-solution",
+              "title": "ML Solution",
+              "description": "Ben Wilson",
+              "source": "@site/docs/03-concepts/frameworks/machine-learning-solution.md",
+              "sourceDirName": "03-concepts/frameworks",
+              "slug": "/concepts/frameworks/machine-learning-solution",
+              "permalink": "/ai-kb/docs/concepts/frameworks/machine-learning-solution",
+              "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/frameworks/machine-learning-solution.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Data Science & Engineering",
+                "permalink": "/ai-kb/docs/concepts/frameworks/ds-vs-de"
+              },
+              "next": {
+                "title": "Project Management",
+                "permalink": "/ai-kb/docs/concepts/frameworks/project-management"
+              }
+            },
+            {
+              "unversionedId": "concepts/frameworks/project-management",
+              "id": "concepts/frameworks/project-management",
+              "title": "Project Management",
+              "description": "A thoroughly scoped, planned, and collaborative ML MVP project road map:",
+              "source": "@site/docs/03-concepts/frameworks/project-management.md",
+              "sourceDirName": "03-concepts/frameworks",
+              "slug": "/concepts/frameworks/project-management",
+              "permalink": "/ai-kb/docs/concepts/frameworks/project-management",
+              "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/frameworks/project-management.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ML Solution",
+                "permalink": "/ai-kb/docs/concepts/frameworks/machine-learning-solution"
+              },
+              "next": {
                 "title": "Graph Embeddings",
                 "permalink": "/ai-kb/docs/concepts/graph-embeddings"
               }
@@ -353,8 +541,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Data Science",
-                "permalink": "/ai-kb/docs/concepts/data-science"
+                "title": "Project Management",
+                "permalink": "/ai-kb/docs/concepts/frameworks/project-management"
               },
               "next": {
                 "title": "Graph Networks",
@@ -403,6 +591,29 @@
                 "permalink": "/ai-kb/docs/concepts/graph-networks"
               },
               "next": {
+                "title": "IPython",
+                "permalink": "/ai-kb/docs/concepts/ipython"
+              }
+            },
+            {
+              "unversionedId": "concepts/ipython",
+              "id": "concepts/ipython",
+              "title": "IPython",
+              "description": "| IDE | Description | Cost |",
+              "source": "@site/docs/03-concepts/ipython.md",
+              "sourceDirName": "03-concepts",
+              "slug": "/concepts/ipython",
+              "permalink": "/ai-kb/docs/concepts/ipython",
+              "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/ipython.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Incremental Learning",
+                "permalink": "/ai-kb/docs/concepts/incremental-learning"
+              },
+              "next": {
                 "title": "Meta Learning",
                 "permalink": "/ai-kb/docs/concepts/meta-learning"
               }
@@ -422,8 +633,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Incremental Learning",
-                "permalink": "/ai-kb/docs/concepts/incremental-learning"
+                "title": "IPython",
+                "permalink": "/ai-kb/docs/concepts/ipython"
               },
               "next": {
                 "title": "MLOps",
@@ -495,6 +706,29 @@
                 "permalink": "/ai-kb/docs/concepts/model-deployment"
               },
               "next": {
+                "title": "Models",
+                "permalink": "/ai-kb/docs/concepts/models"
+              }
+            },
+            {
+              "unversionedId": "concepts/models",
+              "id": "concepts/models",
+              "title": "Models",
+              "description": "Regression",
+              "source": "@site/docs/03-concepts/models.md",
+              "sourceDirName": "03-concepts",
+              "slug": "/concepts/models",
+              "permalink": "/ai-kb/docs/concepts/models",
+              "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/models.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Model Retraining",
+                "permalink": "/ai-kb/docs/concepts/model-retraining"
+              },
+              "next": {
                 "title": "Multi-Objective Optimization",
                 "permalink": "/ai-kb/docs/concepts/multi-objective-optimization"
               }
@@ -514,8 +748,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Model Retraining",
-                "permalink": "/ai-kb/docs/concepts/model-retraining"
+                "title": "Models",
+                "permalink": "/ai-kb/docs/concepts/models"
               },
               "next": {
                 "title": "Multi-Task Learning",
@@ -1137,7 +1371,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Tools",
-                "permalink": "/ai-kb/docs/tools/tools"
+                "permalink": "/ai-kb/docs/tools/"
               },
               "next": {
                 "title": "Pachyderm",
@@ -1218,14 +1452,14 @@
               "id": "tools/tools",
               "title": "Tools",
               "description": "In the following sections, we will more systematically introduce the following tools:",
-              "source": "@site/docs/05-tools/10-tools.mdx",
+              "source": "@site/docs/05-tools/05-tools.mdx",
               "sourceDirName": "05-tools",
-              "slug": "/tools/tools",
-              "permalink": "/ai-kb/docs/tools/tools",
-              "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/05-tools/10-tools.mdx",
+              "slug": "/tools/",
+              "permalink": "/ai-kb/docs/tools/",
+              "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/05-tools/05-tools.mdx",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 10,
+              "sidebarPosition": 5,
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -1235,6 +1469,74 @@
               "next": {
                 "title": "OBP",
                 "permalink": "/ai-kb/docs/tools/obp"
+              }
+            },
+            {
+              "unversionedId": "training-courses/sagemaker/resources",
+              "id": "training-courses/sagemaker/resources",
+              "title": "Resources",
+              "description": "Learn Amazon SageMaker (Julien Simon)",
+              "source": "@site/docs/08-training-courses/01-sagemaker/99-resources.md",
+              "sourceDirName": "08-training-courses/01-sagemaker",
+              "slug": "/training-courses/sagemaker/resources",
+              "permalink": "/ai-kb/docs/training-courses/sagemaker/resources",
+              "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/08-training-courses/01-sagemaker/99-resources.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 99,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SageMaker",
+                "permalink": "/ai-kb/docs/training-courses/sagemaker/"
+              }
+            },
+            {
+              "unversionedId": "training-courses/sagemaker/sagemaker",
+              "id": "training-courses/sagemaker/sagemaker",
+              "title": "SageMaker",
+              "description": "In the following sections, we will more systematically introduce the following items:",
+              "source": "@site/docs/08-training-courses/01-sagemaker/01-sagemaker.md",
+              "sourceDirName": "08-training-courses/01-sagemaker",
+              "slug": "/training-courses/sagemaker/",
+              "permalink": "/ai-kb/docs/training-courses/sagemaker/",
+              "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/08-training-courses/01-sagemaker/01-sagemaker.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Snippets",
+                "permalink": "/ai-kb/docs/training-courses/"
+              },
+              "next": {
+                "title": "Resources",
+                "permalink": "/ai-kb/docs/training-courses/sagemaker/resources"
+              }
+            },
+            {
+              "unversionedId": "training-courses/training-courses",
+              "id": "training-courses/training-courses",
+              "title": "Snippets",
+              "description": "In the following sections, we will more systematically introduce the following snippets:",
+              "source": "@site/docs/08-training-courses/08-training-courses.mdx",
+              "sourceDirName": "08-training-courses",
+              "slug": "/training-courses/",
+              "permalink": "/ai-kb/docs/training-courses/",
+              "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/08-training-courses/08-training-courses.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Unix shell",
+                "permalink": "/ai-kb/docs/best-practices/unix-shell-snippets"
+              },
+              "next": {
+                "title": "SageMaker",
+                "permalink": "/ai-kb/docs/training-courses/sagemaker/"
               }
             },
             {
@@ -1325,6 +1627,29 @@
                 "permalink": "/ai-kb/docs/tutorials/database-conn"
               },
               "next": {
+                "title": "Google Cloud Big Data and Machine Learning Fundamentals",
+                "permalink": "/ai-kb/docs/tutorials/google-cloud"
+              }
+            },
+            {
+              "unversionedId": "tutorials/google-cloud",
+              "id": "tutorials/google-cloud",
+              "title": "Google Cloud Big Data and Machine Learning Fundamentals",
+              "description": "Exploring a BigQuery Public Dataset",
+              "source": "@site/docs/04-tutorials/google-cloud.md",
+              "sourceDirName": "04-tutorials",
+              "slug": "/tutorials/google-cloud",
+              "permalink": "/ai-kb/docs/tutorials/google-cloud",
+              "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/04-tutorials/google-cloud.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Email Classification",
+                "permalink": "/ai-kb/docs/tutorials/email-classification"
+              },
+              "next": {
                 "title": "Graph-based Modeling",
                 "permalink": "/ai-kb/docs/tutorials/graph"
               }
@@ -1344,8 +1669,31 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Email Classification",
-                "permalink": "/ai-kb/docs/tutorials/email-classification"
+                "title": "Google Cloud Big Data and Machine Learning Fundamentals",
+                "permalink": "/ai-kb/docs/tutorials/google-cloud"
+              },
+              "next": {
+                "title": "Kubernetes",
+                "permalink": "/ai-kb/docs/tutorials/kubernetes"
+              }
+            },
+            {
+              "unversionedId": "tutorials/kubernetes",
+              "id": "tutorials/kubernetes",
+              "title": "Kubernetes",
+              "description": "AWS EKS",
+              "source": "@site/docs/04-tutorials/kubernetes.md",
+              "sourceDirName": "04-tutorials",
+              "slug": "/tutorials/kubernetes",
+              "permalink": "/ai-kb/docs/tutorials/kubernetes",
+              "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/04-tutorials/kubernetes.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Graph-based Modeling",
+                "permalink": "/ai-kb/docs/tutorials/graph"
               },
               "next": {
                 "title": "Mathematics",
@@ -1367,8 +1715,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Graph-based Modeling",
-                "permalink": "/ai-kb/docs/tutorials/graph"
+                "title": "Kubernetes",
+                "permalink": "/ai-kb/docs/tutorials/kubernetes"
               },
               "next": {
                 "title": "Matrix Factorizations",
@@ -1509,6 +1857,29 @@
                 "permalink": "/ai-kb/docs/tutorials/name-address-parsing"
               },
               "next": {
+                "title": "Outliers Handling",
+                "permalink": "/ai-kb/docs/tutorials/outliers-handling"
+              }
+            },
+            {
+              "unversionedId": "tutorials/outliers-handling",
+              "id": "tutorials/outliers-handling",
+              "title": "Outliers Handling",
+              "description": "Remove categorical outliers",
+              "source": "@site/docs/04-tutorials/outliers-handling.md",
+              "sourceDirName": "04-tutorials",
+              "slug": "/tutorials/outliers-handling",
+              "permalink": "/ai-kb/docs/tutorials/outliers-handling",
+              "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/04-tutorials/outliers-handling.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Negative Implicit Feedback in Recommendations",
+                "permalink": "/ai-kb/docs/tutorials/negative-implicit-feedback-rec"
+              },
+              "next": {
                 "title": "PDF to WordCloud via Email",
                 "permalink": "/ai-kb/docs/tutorials/pdf-to-wordcloud-mail"
               }
@@ -1528,8 +1899,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Negative Implicit Feedback in Recommendations",
-                "permalink": "/ai-kb/docs/tutorials/negative-implicit-feedback-rec"
+                "title": "Outliers Handling",
+                "permalink": "/ai-kb/docs/tutorials/outliers-handling"
               },
               "next": {
                 "title": "Python code",
@@ -1787,7 +2158,7 @@
               },
               "next": {
                 "title": "Tools",
-                "permalink": "/ai-kb/docs/tools/tools"
+                "permalink": "/ai-kb/docs/tools/"
               }
             }
           ],
@@ -1833,6 +2204,30 @@
                     "id": "concepts/data-science"
                   },
                   {
+                    "type": "category",
+                    "label": "Frameworks",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "concepts/frameworks/ds-vs-de"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concepts/frameworks/machine-learning-solution"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concepts/frameworks/project-management"
+                      }
+                    ],
+                    "link": {
+                      "type": "doc",
+                      "id": "concepts/frameworks/frameworks"
+                    }
+                  },
+                  {
                     "type": "doc",
                     "id": "concepts/graph-embeddings"
                   },
@@ -1843,6 +2238,10 @@
                   {
                     "type": "doc",
                     "id": "concepts/incremental-learning"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "concepts/ipython"
                   },
                   {
                     "type": "doc",
@@ -1859,6 +2258,10 @@
                   {
                     "type": "doc",
                     "id": "concepts/model-retraining"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "concepts/models"
                   },
                   {
                     "type": "doc",
@@ -2002,7 +2405,15 @@
                   },
                   {
                     "type": "doc",
+                    "id": "tutorials/google-cloud"
+                  },
+                  {
+                    "type": "doc",
                     "id": "tutorials/graph"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/kubernetes"
                   },
                   {
                     "type": "doc",
@@ -2031,6 +2442,10 @@
                   {
                     "type": "doc",
                     "id": "tutorials/negative-implicit-feedback-rec"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/outliers-handling"
                   },
                   {
                     "type": "doc",
@@ -2090,10 +2505,6 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "tools/tools"
-                  },
-                  {
-                    "type": "doc",
                     "id": "tools/obp"
                   },
                   {
@@ -2108,7 +2519,11 @@
                     "type": "doc",
                     "id": "tools/river"
                   }
-                ]
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "tools/tools"
+                }
               },
               {
                 "type": "doc",
@@ -2142,6 +2557,30 @@
                     }
                   },
                   {
+                    "type": "category",
+                    "label": "Documentation",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "best-practices/documentation/docusaurus"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "best-practices/documentation/mkdocs"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "best-practices/documentation/sphinx"
+                      }
+                    ],
+                    "link": {
+                      "type": "doc",
+                      "id": "best-practices/documentation/documentation"
+                    }
+                  },
+                  {
                     "type": "doc",
                     "id": "best-practices/makefile"
                   },
@@ -2157,6 +2596,34 @@
                 "link": {
                   "type": "doc",
                   "id": "best-practices/best-practices"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Training Courses",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "SageMaker",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "training-courses/sagemaker/resources"
+                      }
+                    ],
+                    "link": {
+                      "type": "doc",
+                      "id": "training-courses/sagemaker/sagemaker"
+                    }
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "training-courses/training-courses"
                 }
               }
             ]

@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Email Classification",
-    "permalink": "/ai-kb/docs/tutorials/email-classification"
+    "title": "Google Cloud Big Data and Machine Learning Fundamentals",
+    "permalink": "/ai-kb/docs/tutorials/google-cloud"
   },
   "next": {
-    "title": "Mathematics",
-    "permalink": "/ai-kb/docs/tutorials/mathematics"
+    "title": "Kubernetes",
+    "permalink": "/ai-kb/docs/tutorials/kubernetes"
   }
 }

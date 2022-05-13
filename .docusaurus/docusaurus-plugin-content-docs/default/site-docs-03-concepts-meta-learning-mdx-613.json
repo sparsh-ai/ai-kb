@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Incremental Learning",
-    "permalink": "/ai-kb/docs/concepts/incremental-learning"
+    "title": "IPython",
+    "permalink": "/ai-kb/docs/concepts/ipython"
   },
   "next": {
     "title": "MLOps",

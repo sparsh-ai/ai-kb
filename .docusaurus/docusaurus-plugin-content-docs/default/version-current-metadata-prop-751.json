@@ -63,6 +63,33 @@
             "docId": "concepts/data-science"
           },
           {
+            "type": "category",
+            "label": "Frameworks",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Data Science & Engineering",
+                "href": "/ai-kb/docs/concepts/frameworks/ds-vs-de",
+                "docId": "concepts/frameworks/ds-vs-de"
+              },
+              {
+                "type": "link",
+                "label": "ML Solution",
+                "href": "/ai-kb/docs/concepts/frameworks/machine-learning-solution",
+                "docId": "concepts/frameworks/machine-learning-solution"
+              },
+              {
+                "type": "link",
+                "label": "Project Management",
+                "href": "/ai-kb/docs/concepts/frameworks/project-management",
+                "docId": "concepts/frameworks/project-management"
+              }
+            ],
+            "href": "/ai-kb/docs/concepts/frameworks/"
+          },
+          {
             "type": "link",
             "label": "Graph Embeddings",
             "href": "/ai-kb/docs/concepts/graph-embeddings",
@@ -79,6 +106,12 @@
             "label": "Incremental Learning",
             "href": "/ai-kb/docs/concepts/incremental-learning",
             "docId": "concepts/incremental-learning"
+          },
+          {
+            "type": "link",
+            "label": "IPython",
+            "href": "/ai-kb/docs/concepts/ipython",
+            "docId": "concepts/ipython"
           },
           {
             "type": "link",
@@ -103,6 +136,12 @@
             "label": "Model Retraining",
             "href": "/ai-kb/docs/concepts/model-retraining",
             "docId": "concepts/model-retraining"
+          },
+          {
+            "type": "link",
+            "label": "Models",
+            "href": "/ai-kb/docs/concepts/models",
+            "docId": "concepts/models"
           },
           {
             "type": "link",
@@ -299,9 +338,21 @@
           },
           {
             "type": "link",
+            "label": "Google Cloud Big Data and Machine Learning Fundamentals",
+            "href": "/ai-kb/docs/tutorials/google-cloud",
+            "docId": "tutorials/google-cloud"
+          },
+          {
+            "type": "link",
             "label": "Graph-based Modeling",
             "href": "/ai-kb/docs/tutorials/graph",
             "docId": "tutorials/graph"
+          },
+          {
+            "type": "link",
+            "label": "Kubernetes",
+            "href": "/ai-kb/docs/tutorials/kubernetes",
+            "docId": "tutorials/kubernetes"
           },
           {
             "type": "link",
@@ -344,6 +395,12 @@
             "label": "Negative Implicit Feedback in Recommendations",
             "href": "/ai-kb/docs/tutorials/negative-implicit-feedback-rec",
             "docId": "tutorials/negative-implicit-feedback-rec"
+          },
+          {
+            "type": "link",
+            "label": "Outliers Handling",
+            "href": "/ai-kb/docs/tutorials/outliers-handling",
+            "docId": "tutorials/outliers-handling"
           },
           {
             "type": "link",
@@ -481,6 +538,33 @@
             "href": "/ai-kb/docs/best-practices/api/"
           },
           {
+            "type": "category",
+            "label": "Documentation",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Docusaurus",
+                "href": "/ai-kb/docs/best-practices/documentation/docusaurus",
+                "docId": "best-practices/documentation/docusaurus"
+              },
+              {
+                "type": "link",
+                "label": "MkDocs",
+                "href": "/ai-kb/docs/best-practices/documentation/mkdocs",
+                "docId": "best-practices/documentation/mkdocs"
+              },
+              {
+                "type": "link",
+                "label": "Sphinx",
+                "href": "/ai-kb/docs/best-practices/documentation/sphinx",
+                "docId": "best-practices/documentation/sphinx"
+              }
+            ],
+            "href": "/ai-kb/docs/best-practices/documentation/"
+          },
+          {
             "type": "link",
             "label": "Makefile",
             "href": "/ai-kb/docs/best-practices/makefile",
@@ -500,6 +584,30 @@
           }
         ],
         "href": "/ai-kb/docs/best-practices/"
+      },
+      {
+        "type": "category",
+        "label": "Training Courses",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "SageMaker",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Resources",
+                "href": "/ai-kb/docs/training-courses/sagemaker/resources",
+                "docId": "training-courses/sagemaker/resources"
+              }
+            ],
+            "href": "/ai-kb/docs/training-courses/sagemaker/"
+          }
+        ],
+        "href": "/ai-kb/docs/training-courses/"
       }
     ]
   },
@@ -526,6 +634,30 @@
       "id": "best-practices/best-practices",
       "title": "Snippets",
       "description": "In the following sections, we will more systematically introduce the following snippets:",
+      "sidebar": "tutorialSidebar"
+    },
+    "best-practices/documentation/documentation": {
+      "id": "best-practices/documentation/documentation",
+      "title": "Documentation",
+      "description": "In the following sections, we will more systematically introduce the following items:",
+      "sidebar": "tutorialSidebar"
+    },
+    "best-practices/documentation/docusaurus": {
+      "id": "best-practices/documentation/docusaurus",
+      "title": "Docusaurus",
+      "description": "AWS Amplifiy for hosting",
+      "sidebar": "tutorialSidebar"
+    },
+    "best-practices/documentation/mkdocs": {
+      "id": "best-practices/documentation/mkdocs",
+      "title": "MkDocs",
+      "description": "For example, this is how the documentation site looks//sparsh-ai.github.io/reco-base",
+      "sidebar": "tutorialSidebar"
+    },
+    "best-practices/documentation/sphinx": {
+      "id": "best-practices/documentation/sphinx",
+      "title": "Sphinx",
+      "description": "For example, this is how the documentation site looks//reco-base.readthedocs.io/en/latest",
       "sidebar": "tutorialSidebar"
     },
     "best-practices/makefile": {
@@ -588,6 +720,30 @@
       "description": "Data science is used in a variety of ways. Some data scientists focus on the analytics side of things, pulling out hidden patterns and insights from data, then communicating these results with visualizations and statistics. Others work on creating predictive models in order to predict future events, such as predicting whether someone will put solar panels on their house. Yet others work on models for classification; for example, classifying the make and model of a car in an image. One thing ties all applications of data science together: the data. Anywhere you have enough data, you can use data science to accomplish things that seem like magic to the casual observer.",
       "sidebar": "tutorialSidebar"
     },
+    "concepts/frameworks/ds-vs-de": {
+      "id": "concepts/frameworks/ds-vs-de",
+      "title": "Data Science & Engineering",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "concepts/frameworks/frameworks": {
+      "id": "concepts/frameworks/frameworks",
+      "title": "Frameworks",
+      "description": "In the following sections, we will more systematically introduce the following frameworks:",
+      "sidebar": "tutorialSidebar"
+    },
+    "concepts/frameworks/machine-learning-solution": {
+      "id": "concepts/frameworks/machine-learning-solution",
+      "title": "ML Solution",
+      "description": "Ben Wilson",
+      "sidebar": "tutorialSidebar"
+    },
+    "concepts/frameworks/project-management": {
+      "id": "concepts/frameworks/project-management",
+      "title": "Project Management",
+      "description": "A thoroughly scoped, planned, and collaborative ML MVP project road map:",
+      "sidebar": "tutorialSidebar"
+    },
     "concepts/graph-embeddings": {
       "id": "concepts/graph-embeddings",
       "title": "Graph Embeddings",
@@ -604,6 +760,12 @@
       "id": "concepts/incremental-learning",
       "title": "Incremental Learning",
       "description": "Humans and animals have the ability to continually acquire, fine-tune, and transfer knowledge and skills throughout their lifespan. This ability, referred to as lifelong learning, is mediated by a rich set of neurocognitive mechanisms that together contribute to the development and specialization of our sensorimotor skills as well as to long-term memory consolidation and retrieval. Consequently, lifelong learning capabilities are crucial for autonomous agents interacting in the real world and processing continuous streams of information. However, lifelong learning remains a long-standing challenge for machine learning and neural network models since the continual acquisition of incrementally available information from non-stationary data distributions generally leads to catastrophic forgetting or interference.",
+      "sidebar": "tutorialSidebar"
+    },
+    "concepts/ipython": {
+      "id": "concepts/ipython",
+      "title": "IPython",
+      "description": "| IDE | Description | Cost |",
       "sidebar": "tutorialSidebar"
     },
     "concepts/meta-learning": {
@@ -628,6 +790,12 @@
       "id": "concepts/model-retraining",
       "title": "Model Retraining",
       "description": "Concept Drift",
+      "sidebar": "tutorialSidebar"
+    },
+    "concepts/models": {
+      "id": "concepts/models",
+      "title": "Models",
+      "description": "Regression",
       "sidebar": "tutorialSidebar"
     },
     "concepts/multi-objective-optimization": {
@@ -822,6 +990,24 @@
       "description": "In the following sections, we will more systematically introduce the following tools:",
       "sidebar": "tutorialSidebar"
     },
+    "training-courses/sagemaker/resources": {
+      "id": "training-courses/sagemaker/resources",
+      "title": "Resources",
+      "description": "Learn Amazon SageMaker (Julien Simon)",
+      "sidebar": "tutorialSidebar"
+    },
+    "training-courses/sagemaker/sagemaker": {
+      "id": "training-courses/sagemaker/sagemaker",
+      "title": "SageMaker",
+      "description": "In the following sections, we will more systematically introduce the following items:",
+      "sidebar": "tutorialSidebar"
+    },
+    "training-courses/training-courses": {
+      "id": "training-courses/training-courses",
+      "title": "Snippets",
+      "description": "In the following sections, we will more systematically introduce the following snippets:",
+      "sidebar": "tutorialSidebar"
+    },
     "tutorials/amazon-personalize": {
       "id": "tutorials/amazon-personalize",
       "title": "Amazon Personalize",
@@ -846,10 +1032,22 @@
       "description": "Fetching data from MS-Sql",
       "sidebar": "tutorialSidebar"
     },
+    "tutorials/google-cloud": {
+      "id": "tutorials/google-cloud",
+      "title": "Google Cloud Big Data and Machine Learning Fundamentals",
+      "description": "Exploring a BigQuery Public Dataset",
+      "sidebar": "tutorialSidebar"
+    },
     "tutorials/graph": {
       "id": "tutorials/graph",
       "title": "Graph-based Modeling",
       "description": "General",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/kubernetes": {
+      "id": "tutorials/kubernetes",
+      "title": "Kubernetes",
+      "description": "AWS EKS",
       "sidebar": "tutorialSidebar"
     },
     "tutorials/mathematics": {
@@ -892,6 +1090,12 @@
       "id": "tutorials/negative-implicit-feedback-rec",
       "title": "Negative Implicit Feedback in Recommendations",
       "description": "A tutorial to demonstrate the process of training and evaluating various recommender models on a online retail store data. Along with the positive feedbacks like view, add-to-cart, we also have a negative event 'remove-from-cart'.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/outliers-handling": {
+      "id": "tutorials/outliers-handling",
+      "title": "Outliers Handling",
+      "description": "Remove categorical outliers",
       "sidebar": "tutorialSidebar"
     },
     "tutorials/pdf-to-wordcloud-mail": {

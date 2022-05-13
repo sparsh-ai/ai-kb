@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concepts/frameworks/frameworks",
+  "id": "concepts/frameworks/frameworks",
+  "title": "Frameworks",
+  "description": "In the following sections, we will more systematically introduce the following frameworks:",
+  "source": "@site/docs/03-concepts/frameworks/frameworks.md",
+  "sourceDirName": "03-concepts/frameworks",
+  "slug": "/concepts/frameworks/",
+  "permalink": "/ai-kb/docs/concepts/frameworks/",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/frameworks/frameworks.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Data Science",
+    "permalink": "/ai-kb/docs/concepts/data-science"
+  },
+  "next": {
+    "title": "Data Science & Engineering",
+    "permalink": "/ai-kb/docs/concepts/frameworks/ds-vs-de"
+  }
+}

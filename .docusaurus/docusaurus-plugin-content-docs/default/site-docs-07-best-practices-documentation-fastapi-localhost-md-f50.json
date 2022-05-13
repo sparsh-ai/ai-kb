@@ -1,0 +1,23 @@
+{
+  "unversionedId": "best-practices/documentation/fastapi-localhost",
+  "id": "best-practices/documentation/fastapi-localhost",
+  "title": "MkDocs",
+  "description": "This is how the site looks//sparsh-ai.github.io/reco-base/Notebooks/",
+  "source": "@site/docs/07-best-practices/documentation/fastapi-localhost.md",
+  "sourceDirName": "07-best-practices/documentation",
+  "slug": "/best-practices/documentation/fastapi-localhost",
+  "permalink": "/ai-kb/docs/best-practices/documentation/fastapi-localhost",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/07-best-practices/documentation/fastapi-localhost.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Docusaurus",
+    "permalink": "/ai-kb/docs/best-practices/documentation/docusaurus"
+  },
+  "next": {
+    "title": "Sphinx",
+    "permalink": "/ai-kb/docs/best-practices/documentation/sphinx"
+  }
+}

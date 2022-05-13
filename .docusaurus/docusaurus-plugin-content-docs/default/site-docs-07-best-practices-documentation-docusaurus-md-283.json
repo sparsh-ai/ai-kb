@@ -1,0 +1,23 @@
+{
+  "unversionedId": "best-practices/documentation/docusaurus",
+  "id": "best-practices/documentation/docusaurus",
+  "title": "Docusaurus",
+  "description": "AWS Amplifiy for hosting",
+  "source": "@site/docs/07-best-practices/documentation/docusaurus.md",
+  "sourceDirName": "07-best-practices/documentation",
+  "slug": "/best-practices/documentation/docusaurus",
+  "permalink": "/ai-kb/docs/best-practices/documentation/docusaurus",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/07-best-practices/documentation/docusaurus.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Documentation",
+    "permalink": "/ai-kb/docs/best-practices/documentation/"
+  },
+  "next": {
+    "title": "MkDocs",
+    "permalink": "/ai-kb/docs/best-practices/documentation/mkdocs"
+  }
+}

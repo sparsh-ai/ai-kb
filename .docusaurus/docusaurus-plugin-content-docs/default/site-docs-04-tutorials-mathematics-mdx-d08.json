@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Graph-based Modeling",
-    "permalink": "/ai-kb/docs/tutorials/graph"
+    "title": "Kubernetes",
+    "permalink": "/ai-kb/docs/tutorials/kubernetes"
   },
   "next": {
     "title": "Matrix Factorizations",

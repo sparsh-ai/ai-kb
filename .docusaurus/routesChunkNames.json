@@ -625,7 +625,7 @@
     "component": "1f391b9e",
     "content": "4c678320"
   },
-  "/ai-kb/docs-794": {
+  "/ai-kb/docs-bbc": {
     "component": "1be78505",
     "versionMetadata": "935f2afb"
   },
@@ -644,6 +644,22 @@
   "/ai-kb/docs/best-practices/api/fastapi-localhost-897": {
     "component": "17896441",
     "content": "e0face3b"
+  },
+  "/ai-kb/docs/best-practices/documentation/-d99": {
+    "component": "17896441",
+    "content": "90c0f4c5"
+  },
+  "/ai-kb/docs/best-practices/documentation/docusaurus-7e9": {
+    "component": "17896441",
+    "content": "283c8256"
+  },
+  "/ai-kb/docs/best-practices/documentation/mkdocs-7d5": {
+    "component": "17896441",
+    "content": "3c2f9205"
+  },
+  "/ai-kb/docs/best-practices/documentation/sphinx-1a9": {
+    "component": "17896441",
+    "content": "51bd7157"
   },
   "/ai-kb/docs/best-practices/makefile-730": {
     "component": "17896441",
@@ -685,6 +701,22 @@
     "component": "17896441",
     "content": "89d6d792"
   },
+  "/ai-kb/docs/concepts/frameworks/-55e": {
+    "component": "17896441",
+    "content": "b1f7fdd7"
+  },
+  "/ai-kb/docs/concepts/frameworks/ds-vs-de-248": {
+    "component": "17896441",
+    "content": "ff04e721"
+  },
+  "/ai-kb/docs/concepts/frameworks/machine-learning-solution-78a": {
+    "component": "17896441",
+    "content": "cb706afb"
+  },
+  "/ai-kb/docs/concepts/frameworks/project-management-95a": {
+    "component": "17896441",
+    "content": "08875ecc"
+  },
   "/ai-kb/docs/concepts/graph-embeddings-37a": {
     "component": "17896441",
     "content": "b4759fb6"
@@ -696,6 +728,10 @@
   "/ai-kb/docs/concepts/incremental-learning-d61": {
     "component": "17896441",
     "content": "312282c9"
+  },
+  "/ai-kb/docs/concepts/ipython-c73": {
+    "component": "17896441",
+    "content": "07de2e6a"
   },
   "/ai-kb/docs/concepts/meta-learning-d7f": {
     "component": "17896441",
@@ -712,6 +748,10 @@
   "/ai-kb/docs/concepts/model-retraining-c46": {
     "component": "17896441",
     "content": "c35176ed"
+  },
+  "/ai-kb/docs/concepts/models-1b3": {
+    "component": "17896441",
+    "content": "dc6a3d30"
   },
   "/ai-kb/docs/concepts/multi-objective-optimization-387": {
     "component": "17896441",
@@ -841,6 +881,18 @@
     "component": "17896441",
     "content": "adef695c"
   },
+  "/ai-kb/docs/training-courses/-334": {
+    "component": "17896441",
+    "content": "1d552c52"
+  },
+  "/ai-kb/docs/training-courses/sagemaker/-809": {
+    "component": "17896441",
+    "content": "47c21c16"
+  },
+  "/ai-kb/docs/training-courses/sagemaker/resources-9fa": {
+    "component": "17896441",
+    "content": "dfe73ec8"
+  },
   "/ai-kb/docs/tutorials/-ae8": {
     "component": "17896441",
     "content": "708fdbc9"
@@ -861,9 +913,17 @@
     "component": "17896441",
     "content": "aa7c8001"
   },
+  "/ai-kb/docs/tutorials/google-cloud-247": {
+    "component": "17896441",
+    "content": "57ddd828"
+  },
   "/ai-kb/docs/tutorials/graph-bcb": {
     "component": "17896441",
     "content": "7d6d1121"
+  },
+  "/ai-kb/docs/tutorials/kubernetes-d18": {
+    "component": "17896441",
+    "content": "e880469a"
   },
   "/ai-kb/docs/tutorials/mathematics-38a": {
     "component": "17896441",
@@ -892,6 +952,10 @@
   "/ai-kb/docs/tutorials/negative-implicit-feedback-rec-1f0": {
     "component": "17896441",
     "content": "babe569b"
+  },
+  "/ai-kb/docs/tutorials/outliers-handling-003": {
+    "component": "17896441",
+    "content": "a9fbb358"
   },
   "/ai-kb/docs/tutorials/pdf-to-wordcloud-mail-feb": {
     "component": "17896441",

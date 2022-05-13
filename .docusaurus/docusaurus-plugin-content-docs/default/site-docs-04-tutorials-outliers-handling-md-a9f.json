@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorials/outliers-handling",
+  "id": "tutorials/outliers-handling",
+  "title": "Outliers Handling",
+  "description": "Remove categorical outliers",
+  "source": "@site/docs/04-tutorials/outliers-handling.md",
+  "sourceDirName": "04-tutorials",
+  "slug": "/tutorials/outliers-handling",
+  "permalink": "/ai-kb/docs/tutorials/outliers-handling",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/04-tutorials/outliers-handling.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Negative Implicit Feedback in Recommendations",
+    "permalink": "/ai-kb/docs/tutorials/negative-implicit-feedback-rec"
+  },
+  "next": {
+    "title": "PDF to WordCloud via Email",
+    "permalink": "/ai-kb/docs/tutorials/pdf-to-wordcloud-mail"
+  }
+}

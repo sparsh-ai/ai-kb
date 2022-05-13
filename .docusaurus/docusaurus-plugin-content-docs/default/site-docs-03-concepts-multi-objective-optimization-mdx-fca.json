@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Model Retraining",
-    "permalink": "/ai-kb/docs/concepts/model-retraining"
+    "title": "Models",
+    "permalink": "/ai-kb/docs/concepts/models"
   },
   "next": {
     "title": "Multi-Task Learning",

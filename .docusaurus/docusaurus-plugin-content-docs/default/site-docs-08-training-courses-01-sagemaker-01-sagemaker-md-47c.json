@@ -1,0 +1,24 @@
+{
+  "unversionedId": "training-courses/sagemaker/sagemaker",
+  "id": "training-courses/sagemaker/sagemaker",
+  "title": "SageMaker",
+  "description": "In the following sections, we will more systematically introduce the following items:",
+  "source": "@site/docs/08-training-courses/01-sagemaker/01-sagemaker.md",
+  "sourceDirName": "08-training-courses/01-sagemaker",
+  "slug": "/training-courses/sagemaker/",
+  "permalink": "/ai-kb/docs/training-courses/sagemaker/",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/08-training-courses/01-sagemaker/01-sagemaker.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Snippets",
+    "permalink": "/ai-kb/docs/training-courses/"
+  },
+  "next": {
+    "title": "Resources",
+    "permalink": "/ai-kb/docs/training-courses/sagemaker/resources"
+  }
+}

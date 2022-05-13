@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concepts/frameworks/ds-vs-de",
+  "id": "concepts/frameworks/ds-vs-de",
+  "title": "Data Science & Engineering",
+  "description": "",
+  "source": "@site/docs/03-concepts/frameworks/ds-vs-de.md",
+  "sourceDirName": "03-concepts/frameworks",
+  "slug": "/concepts/frameworks/ds-vs-de",
+  "permalink": "/ai-kb/docs/concepts/frameworks/ds-vs-de",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/frameworks/ds-vs-de.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Frameworks",
+    "permalink": "/ai-kb/docs/concepts/frameworks/"
+  },
+  "next": {
+    "title": "ML Solution",
+    "permalink": "/ai-kb/docs/concepts/frameworks/machine-learning-solution"
+  }
+}

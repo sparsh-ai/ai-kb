@@ -1,0 +1,23 @@
+{
+  "unversionedId": "training-courses/api/api",
+  "id": "training-courses/api/api",
+  "title": "API",
+  "description": "In the following sections, we will more systematically introduce the following items:",
+  "source": "@site/docs/08-training-courses/api/api.md",
+  "sourceDirName": "08-training-courses/api",
+  "slug": "/training-courses/api/",
+  "permalink": "/ai-kb/docs/training-courses/api/",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/08-training-courses/api/api.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Snippets",
+    "permalink": "/ai-kb/docs/training-courses/"
+  },
+  "next": {
+    "title": "FastAPI AWS Lambda",
+    "permalink": "/ai-kb/docs/training-courses/api/fastapi-aws-lambda"
+  }
+}

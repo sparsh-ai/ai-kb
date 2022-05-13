@@ -300,7 +300,7 @@ export default [
   },
   {
     path: '/ai-kb/docs',
-    component: ComponentCreator('/ai-kb/docs','794'),
+    component: ComponentCreator('/ai-kb/docs','bbc'),
     routes: [
       {
         path: '/ai-kb/docs/best-practices/',
@@ -323,6 +323,30 @@ export default [
       {
         path: '/ai-kb/docs/best-practices/api/fastapi-localhost',
         component: ComponentCreator('/ai-kb/docs/best-practices/api/fastapi-localhost','897'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/ai-kb/docs/best-practices/documentation/',
+        component: ComponentCreator('/ai-kb/docs/best-practices/documentation/','d99'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/ai-kb/docs/best-practices/documentation/docusaurus',
+        component: ComponentCreator('/ai-kb/docs/best-practices/documentation/docusaurus','7e9'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/ai-kb/docs/best-practices/documentation/mkdocs',
+        component: ComponentCreator('/ai-kb/docs/best-practices/documentation/mkdocs','7d5'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/ai-kb/docs/best-practices/documentation/sphinx',
+        component: ComponentCreator('/ai-kb/docs/best-practices/documentation/sphinx','1a9'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -387,6 +411,30 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/ai-kb/docs/concepts/frameworks/',
+        component: ComponentCreator('/ai-kb/docs/concepts/frameworks/','55e'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/ai-kb/docs/concepts/frameworks/ds-vs-de',
+        component: ComponentCreator('/ai-kb/docs/concepts/frameworks/ds-vs-de','248'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/ai-kb/docs/concepts/frameworks/machine-learning-solution',
+        component: ComponentCreator('/ai-kb/docs/concepts/frameworks/machine-learning-solution','78a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/ai-kb/docs/concepts/frameworks/project-management',
+        component: ComponentCreator('/ai-kb/docs/concepts/frameworks/project-management','95a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/ai-kb/docs/concepts/graph-embeddings',
         component: ComponentCreator('/ai-kb/docs/concepts/graph-embeddings','37a'),
         exact: true,
@@ -401,6 +449,12 @@ export default [
       {
         path: '/ai-kb/docs/concepts/incremental-learning',
         component: ComponentCreator('/ai-kb/docs/concepts/incremental-learning','d61'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/ai-kb/docs/concepts/ipython',
+        component: ComponentCreator('/ai-kb/docs/concepts/ipython','c73'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -425,6 +479,12 @@ export default [
       {
         path: '/ai-kb/docs/concepts/model-retraining',
         component: ComponentCreator('/ai-kb/docs/concepts/model-retraining','c46'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/ai-kb/docs/concepts/models',
+        component: ComponentCreator('/ai-kb/docs/concepts/models','1b3'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -621,6 +681,24 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/ai-kb/docs/training-courses/',
+        component: ComponentCreator('/ai-kb/docs/training-courses/','334'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/ai-kb/docs/training-courses/sagemaker/',
+        component: ComponentCreator('/ai-kb/docs/training-courses/sagemaker/','809'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/ai-kb/docs/training-courses/sagemaker/resources',
+        component: ComponentCreator('/ai-kb/docs/training-courses/sagemaker/resources','9fa'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/ai-kb/docs/tutorials/',
         component: ComponentCreator('/ai-kb/docs/tutorials/','ae8'),
         exact: true,
@@ -651,8 +729,20 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/ai-kb/docs/tutorials/google-cloud',
+        component: ComponentCreator('/ai-kb/docs/tutorials/google-cloud','247'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/ai-kb/docs/tutorials/graph',
         component: ComponentCreator('/ai-kb/docs/tutorials/graph','bcb'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/ai-kb/docs/tutorials/kubernetes',
+        component: ComponentCreator('/ai-kb/docs/tutorials/kubernetes','d18'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -695,6 +785,12 @@ export default [
       {
         path: '/ai-kb/docs/tutorials/negative-implicit-feedback-rec',
         component: ComponentCreator('/ai-kb/docs/tutorials/negative-implicit-feedback-rec','1f0'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/ai-kb/docs/tutorials/outliers-handling',
+        component: ComponentCreator('/ai-kb/docs/tutorials/outliers-handling','003'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concepts/frameworks/machine-learning-solution",
+  "id": "concepts/frameworks/machine-learning-solution",
+  "title": "ML Solution",
+  "description": "Ben Wilson",
+  "source": "@site/docs/03-concepts/frameworks/machine-learning-solution.md",
+  "sourceDirName": "03-concepts/frameworks",
+  "slug": "/concepts/frameworks/machine-learning-solution",
+  "permalink": "/ai-kb/docs/concepts/frameworks/machine-learning-solution",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/frameworks/machine-learning-solution.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Data Science & Engineering",
+    "permalink": "/ai-kb/docs/concepts/frameworks/ds-vs-de"
+  },
+  "next": {
+    "title": "Project Management",
+    "permalink": "/ai-kb/docs/concepts/frameworks/project-management"
+  }
+}

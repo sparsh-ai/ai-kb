@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concepts/frameworks/project-management",
+  "id": "concepts/frameworks/project-management",
+  "title": "Project Management",
+  "description": "A thoroughly scoped, planned, and collaborative ML MVP project road map:",
+  "source": "@site/docs/03-concepts/frameworks/project-management.md",
+  "sourceDirName": "03-concepts/frameworks",
+  "slug": "/concepts/frameworks/project-management",
+  "permalink": "/ai-kb/docs/concepts/frameworks/project-management",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/frameworks/project-management.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ML Solution",
+    "permalink": "/ai-kb/docs/concepts/frameworks/machine-learning-solution"
+  },
+  "next": {
+    "title": "Graph Embeddings",
+    "permalink": "/ai-kb/docs/concepts/graph-embeddings"
+  }
+}

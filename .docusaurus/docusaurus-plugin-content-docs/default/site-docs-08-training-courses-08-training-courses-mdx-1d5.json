@@ -1,0 +1,24 @@
+{
+  "unversionedId": "training-courses/training-courses",
+  "id": "training-courses/training-courses",
+  "title": "Snippets",
+  "description": "In the following sections, we will more systematically introduce the following snippets:",
+  "source": "@site/docs/08-training-courses/08-training-courses.mdx",
+  "sourceDirName": "08-training-courses",
+  "slug": "/training-courses/",
+  "permalink": "/ai-kb/docs/training-courses/",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/08-training-courses/08-training-courses.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Unix shell",
+    "permalink": "/ai-kb/docs/best-practices/unix-shell-snippets"
+  },
+  "next": {
+    "title": "SageMaker",
+    "permalink": "/ai-kb/docs/training-courses/sagemaker/"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concepts/models",
+  "id": "concepts/models",
+  "title": "Models",
+  "description": "Regression",
+  "source": "@site/docs/03-concepts/models.md",
+  "sourceDirName": "03-concepts",
+  "slug": "/concepts/models",
+  "permalink": "/ai-kb/docs/concepts/models",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/03-concepts/models.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Model Retraining",
+    "permalink": "/ai-kb/docs/concepts/model-retraining"
+  },
+  "next": {
+    "title": "Multi-Objective Optimization",
+    "permalink": "/ai-kb/docs/concepts/multi-objective-optimization"
+  }
+}

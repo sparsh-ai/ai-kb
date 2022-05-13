@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Negative Implicit Feedback in Recommendations",
-    "permalink": "/ai-kb/docs/tutorials/negative-implicit-feedback-rec"
+    "title": "Outliers Handling",
+    "permalink": "/ai-kb/docs/tutorials/outliers-handling"
   },
   "next": {
     "title": "Python code",

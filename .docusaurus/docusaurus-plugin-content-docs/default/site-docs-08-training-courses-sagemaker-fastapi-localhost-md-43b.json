@@ -1,0 +1,19 @@
+{
+  "unversionedId": "training-courses/sagemaker/fastapi-localhost",
+  "id": "training-courses/sagemaker/fastapi-localhost",
+  "title": "FastAPI Localhost",
+  "description": "Requirements",
+  "source": "@site/docs/08-training-courses/sagemaker/fastapi-localhost.md",
+  "sourceDirName": "08-training-courses/sagemaker",
+  "slug": "/training-courses/sagemaker/fastapi-localhost",
+  "permalink": "/ai-kb/docs/training-courses/sagemaker/fastapi-localhost",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/08-training-courses/sagemaker/fastapi-localhost.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FastAPI AWS Lambda",
+    "permalink": "/ai-kb/docs/training-courses/sagemaker/fastapi-aws-lambda"
+  }
+}

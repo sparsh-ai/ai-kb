@@ -15,5 +15,9 @@
   "previous": {
     "title": "Python code",
     "permalink": "/ai-kb/docs/best-practices/python-snippets"
+  },
+  "next": {
+    "title": "Snippets",
+    "permalink": "/ai-kb/docs/training-courses/"
   }
 }

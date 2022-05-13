@@ -1,0 +1,20 @@
+{
+  "unversionedId": "training-courses/sagemaker/resources",
+  "id": "training-courses/sagemaker/resources",
+  "title": "Resources",
+  "description": "Learn Amazon SageMaker (Julien Simon)",
+  "source": "@site/docs/08-training-courses/01-sagemaker/99-resources.md",
+  "sourceDirName": "08-training-courses/01-sagemaker",
+  "slug": "/training-courses/sagemaker/resources",
+  "permalink": "/ai-kb/docs/training-courses/sagemaker/resources",
+  "editUrl": "https://github.com/sparsh-ai/ai-kb/docs/08-training-courses/01-sagemaker/99-resources.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 99,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SageMaker",
+    "permalink": "/ai-kb/docs/training-courses/sagemaker/"
+  }
+}

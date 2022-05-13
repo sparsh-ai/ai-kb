@@ -2,7 +2,7 @@
 
 ## Mongodb
 
-<a href="https://nbviewer.org/github/recohut/nbs/blob/main/2021-06-11-recostep-mongodb-listener.ipynb" alt=""> <img src="https://colab.research.google.com/assets/colab-badge.svg" /></a>
+<a href="https://nbviewer.org/github/recohut/notebook/blob/master/_notebooks/2021-06-11-recostep-mongodb-listener.ipynb" alt=""> <img src="https://colab.research.google.com/assets/colab-badge.svg" /></a>
 
 
 ```python
@@ -27,7 +27,7 @@ client = pymongo.MongoClient(mongo_uri)
 > Pull a noSQL data from MongoDB and convert into Pandas dataframe
 >
 
-<a href="https://nbviewer.org/github/recohut/nbs/blob/main/2020-06-20-mongodb-to-csv-conversion.ipynb" alt=""> <img src="https://colab.research.google.com/assets/colab-badge.svg" /></a>
+<a href="https://nbviewer.org/github/recohut/notebook/blob/master/_notebooks/2020-06-20-mongodb-to-csv-conversion.ipynb" alt=""> <img src="https://colab.research.google.com/assets/colab-badge.svg" /></a>
 
 ```python
 import pymongo as pm
@@ -117,7 +117,7 @@ df.to_csv('mongoDB_to_CSV_converted.csv')
 
 ## Cassendra
 
-<a href="https://nbviewer.org/github/recohut/nbs/blob/main/2021-07-01-read-data-from-cassandra-into-pandas.ipynb" alt=""> <img src="https://colab.research.google.com/assets/colab-badge.svg" /></a>
+<a href="https://nbviewer.org/github/recohut/notebook/blob/master/_notebooks/2021-07-01-read-data-from-cassandra-into-pandas.ipynb" alt=""> <img src="https://colab.research.google.com/assets/colab-badge.svg" /></a>
 
 
 ```python
@@ -166,7 +166,7 @@ df.head()
 
 ## MS-SQL
 
-<a href="https://nbviewer.org/github/recohut/nbs/blob/main/2022-01-02-email-classification.ipynb" alt=""> <img src="https://colab.research.google.com/assets/colab-badge.svg" /></a>
+<a href="https://nbviewer.org/github/recohut/notebook/blob/master/_notebooks/2022-01-02-email-classification.ipynb" alt=""> <img src="https://colab.research.google.com/assets/colab-badge.svg" /></a>
 
 
 ```python

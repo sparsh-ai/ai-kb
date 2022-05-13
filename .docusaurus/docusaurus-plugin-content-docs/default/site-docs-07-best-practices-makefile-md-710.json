@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "FastAPI Localhost",
-    "permalink": "/ai-kb/docs/best-practices/api/fastapi-localhost"
+    "title": "Sphinx",
+    "permalink": "/ai-kb/docs/best-practices/documentation/sphinx"
   },
   "next": {
     "title": "Python code",
