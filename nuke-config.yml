@@ -1,0 +1,9 @@
+regions:
+- eu-east-1
+- global
+
+account-blocklist:
+- "999999999999" # production
+
+accounts:
+  "000000000000": {} # aws-nuke-example
